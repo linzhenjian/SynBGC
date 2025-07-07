@@ -1,0 +1,2169 @@
+SSF53383	PLP-dependent transferases
+G3DSA:3.90.1150.10	Aspartate Aminotransferase, domain 1
+PTHR11487	THIOESTERASE
+PF02801	Beta-ketoacyl synthase, C-terminal domain
+SM00827	Acyl transferase domain in polyketide synthase (PKS) enzymes.
+PF14765	Polyketide synthase dehydratase N-terminal domain
+SM00825	Beta-ketoacyl synthase
+PS52019	Polyketide and metazoan fatty acid synthase dehydratase (PKS/mFAS DH) domain profile.
+SSF53901	Thiolase-like
+PF21089	Polyketide synthase dehydratase domain
+PF00109	Beta-ketoacyl synthase, N-terminal domain
+PF16197	Ketoacyl-synthetase C-terminal extension
+PS50075	Carrier protein (CP) domain profile.
+PS52004	Ketosynthase family 3 (KS3) domain profile.
+PS00606	Ketosynthase family 3 (KS3) active site signature.
+PF08242	Methyltransferase domain
+PF00698	Acyl transferase domain
+SM00822	This enzymatic domain is part of bacterial polyketide synthases and catalyses the first step in the reductive modification of the beta-carbonyl centres in the growing polyketide chain. It uses NADPH to reduce the keto group to a hydroxy group.
+SSF55048	Probable ACP-binding domain of malonyl-CoA ACP transacylase
+PTHR43775	FATTY ACID SYNTHASE
+G3DSA:3.10.129.10	Hotdog Thioesterase
+SSF54637	Thioesterase/thiol ester dehydrase-isomerase
+PTHR30272	3-HYDROXYACYL-[ACYL-CARRIER-PROTEIN] DEHYDRATASE
+PR00359	B-class P450 signature
+cd11031	Cyp158A-like
+PS00086	Cytochrome P450 cysteine heme-iron ligand signature.
+PTHR46696	P450, PUTATIVE (EUROFUNG)-RELATED
+SSF48264	Cytochrome P450
+G3DSA:1.10.630.10	Cytochrome P450
+G3DSA:1.10.630.10:FF:000018	Cytochrome P450 monooxygenase
+PF00067	Cytochrome P450
+PS51471	Fe(2+) 2-oxoglutarate dioxygenase domain profile.
+PF03171	2OG-Fe(II) oxygenase superfamily
+PF14226	non-haem dioxygenase in morphine synthesis N-terminal
+PTHR47990	2-OXOGLUTARATE (2OG) AND FE(II)-DEPENDENT OXYGENASE SUPERFAMILY PROTEIN-RELATED
+PF02458	Transferase family
+PS00166	Enoyl-CoA hydratase/isomerase signature.
+G3DSA:3.90.226.10:FF:000009	Carnitinyl-CoA dehydratase
+PF00378	Enoyl-CoA hydratase/isomerase
+PTHR11941	ENOYL-COA HYDRATASE-RELATED
+G3DSA:3.40.47.10:FF:000018	3-oxoacyl-[acyl-carrier-protein] synthase 2
+G3DSA:3.40.47.10:FF:000029	3-oxoacyl-[acyl-carrier-protein] synthase 1
+PTHR38444	ENTEROBACTIN BIOSYNTHESIS PROTEIN YBDZ
+PR00420	Aromatic-ring hydroxylase (flavoprotein monooxygenase) signature
+SSF51905	FAD/NAD(P)-binding domain
+PF21274	Aromatic-ring hydroxylase, C-terminal
+PF01494	FAD binding domain
+G3DSA:1.10.600.10:FF:000020	Phytoene synthase
+SSF48576	Terpenoid synthases
+PS01045	Squalene and phytoene synthases signature 2.
+PTHR31480	BIFUNCTIONAL LYCOPENE CYCLASE/PHYTOENE SYNTHASE
+SFLDG01212	Phytoene synthase like
+G3DSA:1.10.600.10	Farnesyl Diphosphate Synthase
+PS01044	Squalene and phytoene synthases signature 1.
+PF00494	Squalene/phytoene synthase
+SFLDS00005	Isoprenoid Synthase Type I
+TIGR00128	ACP S-malonyltransferase
+PTHR43323	3-HYDROXY-3-METHYLGLUTARYL COENZYME A SYNTHASE
+SSF47336	ACP-like
+G3DSA:1.10.1200.10:FF:000007	Probable polyketide synthase pks17
+PF18369	Polyketide synthase dimerisation element domain
+cd08956	KR_3_FAS_SDR_x
+G3DSA:3.40.366.10:FF:000002	Probable polyketide synthase 2
+cd08952	KR_1_SDR_x
+PF22953	Polyketide synthase extender module SpnB, Rossmann fold domain
+PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature
+PTHR43669	5-KETO-D-GLUCONATE 5-REDUCTASE
+SSF56801	Acetyl-CoA synthetase-like
+PS00455	Putative AMP-binding domain signature.
+PF00501	AMP-binding enzyme
+PS01162	Quinone oxidoreductase / zeta-crystallin signature.
+PF08240	Alcohol dehydrogenase GroES-like domain
+PTHR44154	QUINONE OXIDOREDUCTASE
+TIGR01751	crotonyl-CoA carboxylase/reductase
+PF00107	Zinc-binding dehydrogenase
+PF01039	Carboxyl transferase domain
+PTHR47582	P450, PUTATIVE (EUROFUNG)-RELATED
+PTHR43643	HISTIDINOL-PHOSPHATE AMINOTRANSFERASE 2
+PF00155	Aminotransferase class I and II
+MF_01513	Putative phenylalanine aminotransferase [pat].
+PF13434	L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+PF00668	Condensation domain
+SSF52777	CoA-dependent acyltransferases
+G3DSA:3.20.20.100:FF:000086	Putative sterigmatocystin biosynthesis dehydrogenase stcV
+SSF51430	NAD(P)-linked oxidoreductase
+PTHR43884	ACYL-COA DEHYDROGENASE
+PF00441	Acyl-CoA dehydrogenase, C-terminal domain
+SSF56645	Acyl-CoA dehydrogenase NM domain-like
+SSF47203	Acyl-CoA dehydrogenase C-terminal domain-like
+PF00296	Luciferase-like monooxygenase
+PTHR30137	LUCIFERASE-LIKE MONOOXYGENASE
+PF00795	Carbon-nitrogen hydrolase
+PS50263	Carbon-nitrogen hydrolase domain profile.
+SSF56317	Carbon-nitrogen hydrolase
+TIGR01716	transcriptional activator, Rgg/GadR/MutR family, C-terminal domain
+PTHR43283	BETA-LACTAMASE-RELATED
+PF00144	Beta-lactamase
+PF14028	Lantibiotic biosynthesis dehydratase C-term
+TIGR03891	thiopeptide-type bacteriocin biosynthesis domain
+PF04738	Lantibiotic dehydratase, N terminus
+cd11062	CYP58-like
+PTHR24305	CYTOCHROME P450
+PS00098	Thiolases acyl-enzyme intermediate signature.
+PF22336	RhiE-like, KS-MAT linker domain
+PTHR43539	FLAVIN-BINDING MONOOXYGENASE-LIKE PROTEIN (AFU_ORTHOLOGUE AFUA_4G09220)
+PF13738	Pyridine nucleotide-disulphide oxidoreductase
+cd19537	C_NRPS-like
+cd01097	Tetrahydromethanopterin_reductase
+PTHR43201	ACYL-COA SYNTHETASE
+PF13193	AMP-binding enzyme C-terminal domain
+PS00061	Short-chain dehydrogenases/reductases family signature.
+SSF55347	Glyceraldehyde-3-phosphate dehydrogenase-like, C-terminal domain
+PF02894	Oxidoreductase family, C-terminal alpha/beta domain
+PTHR43708	CONSERVED EXPRESSED OXIDOREDUCTASE (EUROFUNG)
+PF01408	Oxidoreductase family, NAD-binding Rossmann fold
+SSF102114	Radical SAM enzymes
+SFLDF00422	valine cyclopropanase
+cd01335	Radical_SAM
+NF042430	enoyl-CoA-hydratase DpgD
+cd19540	LCL_NRPS-like
+G3DSA:3.30.300.30:FF:000010	Enterobactin synthetase component F
+G3DSA:3.40.50.980:FF:000001	Non-ribosomal peptide synthetase
+G3DSA:3.40.50.12780:FF:000012	Non-ribosomal peptide synthetase
+G3DSA:1.10.1200.10:FF:000005	Nonribosomal peptide synthetase 1
+G3DSA:2.30.38.10:FF:000001	Non-ribosomal peptide synthetase PvdI
+TIGR01733	amino acid adenylation domain
+G3DSA:3.30.559.10:FF:000012	Non-ribosomal peptide synthetase
+TIGR01720	non-ribosomal peptide synthase domain TIGR01720
+G3DSA:3.30.559.30:FF:000001	Non-ribosomal peptide synthetase
+cd17651	A_NRPS_VisG_like
+cd17652	A_NRPS_CmdD_like
+PF00202	Aminotransferase class-III
+cd12117	A_NRPS_Srf_like
+G3DSA:3.40.50.980:FF:000002	Enterobactin synthetase component F
+cd19534	E_NRPS
+cd05930	A_NRPS
+cd19533	starter-C_NRPS
+cd05195	enoyl_red
+G3DSA:3.90.180.10:FF:000032	Probable polyketide synthase pks1
+PF13602	Zinc-binding dehydrogenase
+G3DSA:3.40.50.720:FF:000209	Polyketide synthase Pks12
+PTHR23028	ACETYLTRANSFERASE
+PF01757	Acyltransferase family
+cd11041	CYP503A1-like
+PTHR46206	CYTOCHROME P450
+PTHR42879	3-OXOACYL-(ACYL-CARRIER-PROTEIN) REDUCTASE
+G3DSA:3.40.50.720:FF:000173	3-oxoacyl-[acyl-carrier protein] reductase
+PTHR48050	STEROL 3-BETA-GLUCOSYLTRANSFERASE
+PF21036	Erythromycin biosynthesis protein CIII-like, N-terminal domain
+PF06722	Erythromycin biosynthesis protein CIII-like, C-terminal domain
+PF07992	Pyridine nucleotide-disulphide oxidoreductase
+SSF55424	FAD/NAD-linked reductases, dimerisation (C-terminal) domain
+PTHR10314	CYSTATHIONINE BETA-SYNTHASE
+TIGR03945	2,3-diaminopropionate biosynthesis protein SbnA
+cd08249	enoyl_reductase_like
+PTHR46383	ASPARTATE AMINOTRANSFERASE
+G3DSA:3.40.640.10:FF:000033	Aspartate aminotransferase
+G3DSA:1.20.1090.10:FF:000001	Aldehyde-alcohol dehydrogenase
+PTHR11496	ALCOHOL DEHYDROGENASE
+cd08180	PDD
+G3DSA:3.40.50.1970:FF:000003	Alcohol dehydrogenase, iron-containing
+PTHR43074	OMEGA-3 POLYUNSATURATED FATTY ACID SYNTHASE PFAB-RELATED
+cd19532	C_PKS-NRPS
+PF02784	Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+NF041039	rhizoferrin biosystnesis N-citrylornithine decarboxylase FslC
+PR01179	Ornithine/diaminopimelate/arginine (ODA) decarboxylase family signature
+PF00278	Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+cd06841	PLPDE_III_MccE_like
+TIGR04515	P450-derived glycosyltransferase activator
+PF02770	Acyl-CoA dehydrogenase, middle domain
+PS00072	Acyl-CoA dehydrogenases signature 1.
+SSF54373	FAD-linked reductases, C-terminal domain
+PF01266	FAD dependent oxidoreductase
+PTHR22604	OXIDOREDUCTASES
+cd20622	CYP_TRI13-like
+PF24621	3-dehydroquinate synthase C-terminal
+PF01761	3-dehydroquinate synthase N-terminal
+PTHR43622	3-DEHYDROQUINATE SYNTHASE
+PF01041	DegT/DnrJ/EryC1/StrS aminotransferase family
+PF13847	Methyltransferase domain
+PF05721	Phytanoyl-CoA dioxygenase (PhyH)
+PTHR38096	ENTEROBACTIN SYNTHASE COMPONENT D
+PR01399	Enterobactin synthetase component D signature
+SSF55729	Acyl-CoA N-acyltransferases (Nat)
+PF00583	Acetyltransferase (GNAT) family
+PTHR43747	FAD-BINDING PROTEIN
+PF00266	Aminotransferase class-V
+PTHR43689	HYDROLASE
+PF00891	O-methyltransferase domain
+PS51683	SAM-dependent O-methyltransferase class II-type profile.
+G3DSA:3.40.50.1100:FF:000006	Cysteine synthase
+TIGR01139	cysteine synthase A
+TIGR01136	cysteine synthase
+TIGR01840	PHB depolymerase family esterase
+TIGR03150	beta-ketoacyl-ACP synthase II
+G3DSA:3.40.47.10:FF:000009	3-oxoacyl-[acyl-carrier-protein] synthase 2
+TIGR01250	proline iminopeptidase-family hydrolase
+cd07730	metallo-hydrolase-like_MBL-fold
+cd11060	CYP57A1-like
+cd11030	CYP105-like
+PTHR34069	3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE 3
+PF08541	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+G3DSA:1.20.5.320:FF:000001	6-phosphogluconate dehydrogenase, decarboxylating
+PF00881	Nitroreductase family
+PTHR43745	NITROREDUCTASE MJ1384-RELATED
+SSF55469	FMN-dependent nitroreductase-like
+G3DSA:3.40.109.10	NADH Oxidase
+PF05147	Lanthionine synthetase C-like protein
+cd04793	LanC
+PTHR24304	CYTOCHROME P450 FAMILY 7
+cd00302	cytochrome_P450
+PF21394	Beta-ketoacyl synthase-like, N-terminal
+PF19086	Terpene synthase family 2, C-terminal metal binding
+PF01721	Class II bacteriocin
+TIGR01847	bacteriocin leader domain
+PF08241	Methyltransferase domain
+PTHR24287	P450, PUTATIVE (EUROFUNG)-RELATED
+cd11063	CYP52
+cd12114	A_NRPS_TlmIV_like
+G3DSA:3.30.559.10:FF:000023	Non-ribosomal peptide synthetase
+PF02624	YcaO cyclodehydratase, ATP-ad Mg2+-binding
+TIGR03882	TOMM precursor leader peptide-binding domain
+PS51664	YcaO domain profile.
+PTHR11236	AMINOBENZOATE/ANTHRANILATE SYNTHASE
+G3DSA:3.60.120.10	Anthranilate synthase
+TIGR03494	salicylate synthase
+PR00095	Anthranilate synthase component I signature
+G3DSA:3.40.50.150:FF:000458	O-methyltransferase B
+PF08100	Plant O-methyltransferase dimerisation domain
+PF08028	Acyl-CoA dehydrogenase, C-terminal domain
+PTHR24286	CYTOCHROME P450 26
+TIGR03971	mycofactocin-coupled SDR family oxidoreductase
+TIGR01426	macrolide family glycosyltransferase
+PF04820	Tryptophan halogenase
+PIRSF011396	Trp_halogenase
+cd04791	LanC_SerThrkinase
+NF038151	class III lanthionine synthetase LanKC
+PTHR42964	ENOYL-COA HYDRATASE
+PS00843	D-alanine--D-alanine ligase signature 1.
+TIGR01205	D-alanine--D-alanine ligase
+SSF56059	Glutathione synthetase ATP-binding domain-like
+MF_00047	D-alanine--D-alanine ligase [ddl].
+PTHR23132	D-ALANINE--D-ALANINE LIGASE
+PS50975	ATP-grasp fold profile.
+PS00844	D-alanine--D-alanine ligase signature 2.
+cd19544	E-C_NRPS
+G3DSA:3.30.559.10:FF:000064	Non-ribosomal peptide synthetase OfaC
+PTHR11228	RADICAL SAM DOMAIN PROTEIN
+SFLDF00315	antilisterial bacteriocin subtilosin biosynthesis protein (AlbA-like)
+SFLDG01072	dehydrogenase like
+SFLDF00516	thurincin H (ThnB-like)
+G3DSA:3.40.640.10:FF:000013	4-aminobutyrate aminotransferase
+TIGR00700	4-aminobutyrate--2-oxoglutarate transaminase
+TIGR03975	RiPP maturation radical SAM C-methyltransferase
+SFLDF00324	bacteriocin maturation
+PR00324	Nisin signature
+PF00733	Asparagine synthase
+PF13537	Glutamine amidotransferase domain
+PTHR43284	ASPARAGINE SYNTHETASE (GLUTAMINE-HYDROLYZING)
+PS51278	Glutamine amidotransferase type 2 domain profile.
+TIGR01536	asparagine synthase (glutamine-hydrolyzing)
+PIRSF019543	Clavaminate_syn
+PF16861	Carbamoyltransferase C-terminus
+PF02543	Carbamoyltransferase N-terminus
+PF18558	Methyltransferase, Helix-turn-helix domain
+G3DSA:2.30.38.10:FF:000003	Vibriobactin-specific 2,3-dihydroxybenzoate-AMP ligase
+G3DSA:3.40.50.980:FF:000003	Vibriobactin-specific 2,3-dihydroxybenzoate-AMP ligase
+PTHR24096	LONG-CHAIN-FATTY-ACID--COA LIGASE
+PF13460	NAD(P)H-binding
+PTHR43355	FLAVIN REDUCTASE (NADPH)
+NF033583	staphyloferrin B biosynthesis protein SbnC
+PTHR34384	L-2,3-DIAMINOPROPANOATE--CITRATE LIGASE
+PF13649	Methyltransferase domain
+PTHR43292	ACYL-COA DEHYDROGENASE
+PF02771	Acyl-CoA dehydrogenase, N-terminal domain
+G3DSA:3.40.605.10:FF:000001	Aldehyde dehydrogenase 1
+PS00687	Aldehyde dehydrogenases glutamic acid active site.
+G3DSA:3.40.605.10	Aldehyde Dehydrogenase; Chain A, domain 1
+SSF53720	ALDH-like
+PTHR11699	ALDEHYDE DEHYDROGENASE-RELATED
+PS00070	Aldehyde dehydrogenases cysteine active site.
+G3DSA:3.40.309.10	Aldehyde Dehydrogenase; Chain A, domain 2
+cd07112	ALDH_GABALDH-PuuC
+PF00171	Aldehyde dehydrogenase family
+PF01565	FAD binding domain
+PF08031	Berberine and berberine like
+TIGR00566	glutamine amidotransferase of anthranilate synthase or aminodeoxychorismate synthase
+PS51273	Glutamine amidotransferase type 1 domain profile.
+PR00097	Anthranilate synthase component II signature
+G3DSA:3.40.50.880:FF:000003	Anthranilate synthase component II
+PR00096	Glutamine amidotransferase superfamily signature
+PF00117	Glutamine amidotransferase class-I
+PF21212	Dimerisation2-like domain
+PF04604	Type-A lantibiotic
+PR00154	AMP-binding signature
+PTHR43464	METHYLTRANSFERASE
+TIGR01983	bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG
+PF01450	Acetohydroxy acid isomeroreductase, catalytic domain
+PF07991	Acetohydroxy acid isomeroreductase, NADPH-binding domain
+PTHR43476	3-(3-HYDROXY-PHENYL)PROPIONATE/3-HYDROXYCINNAMIC ACID HYDROXYLASE
+cd11065	CYP64-like
+PR00412	Epoxide hydrolase signature
+TIGR03695	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+PTHR42916	2-SUCCINYL-5-ENOLPYRUVYL-6-HYDROXY-3-CYCLOHEXENE-1-CARBOXYLATE SYNTHASE
+MF_01660	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [menH].
+PF02737	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain
+G3DSA:3.40.50.720:FF:000009	Fatty oxidation complex, alpha subunit
+PF00725	3-hydroxyacyl-CoA dehydrogenase, C-terminal domain
+PTHR48075	3-HYDROXYACYL-COA DEHYDROGENASE FAMILY PROTEIN
+G3DSA:3.40.640.10:FF:000089	Aminotransferase, DegT/DnrJ/EryC1/StrS family
+PTHR31896	FAMILY REGULATORY PROTEIN, PUTATIVE (AFU_ORTHOLOGUE AFUA_3G14730)-RELATED
+G3DSA:3.40.640.10:FF:000079	LPS biosynthesis protein
+TIGR01357	3-dehydroquinate synthase
+G3DSA:3.40.50.1970:FF:000001	3-dehydroquinate synthase
+MF_00110	3-dehydroquinate synthase [aroB].
+cd11032	P450_EryK-like
+G3DSA:3.40.1190.20:FF:000001	Phosphofructokinase
+SM00828	Methyltransferase  in polyketide synthase (PKS) enzymes.
+G3DSA:3.40.50.720:FF:000550	AmphB polyketide synthase
+PTHR42847	ALKANESULFONATE MONOOXYGENASE
+TIGR03619	TIGR03619 family F420-dependent LLM class oxidoreductase
+PF13523	Acetyltransferase (GNAT) domain
+cd11072	CYP71-like
+PTHR47955	CYTOCHROME P450 FAMILY 71 PROTEIN
+G3DSA:1.10.630.10:FF:000043	Cytochrome P450 99A2
+PF08282	haloacid dehalogenase-like hydrolase
+PF22691	Thiolase C-terminal domain-like
+PTHR42870	ACETYL-COA C-ACETYLTRANSFERASE
+PF00108	Thiolase, N-terminal domain
+cd05152	MPH2'
+SM00903	Flavin_Reduct_2
+PF01613	Flavin reductase like domain
+PTHR30466	FLAVIN REDUCTASE
+cd05918	A_NRPS_SidN3_like
+G3DSA:3.40.50.12780:FF:000014	Nonribosomal peptide synthetase 1
+SM00859	Semialdhyde_dh_3
+PF01118	Semialdehyde dehydrogenase, NAD binding domain
+PF22698	Semialdehyde dehydrogenase, dimerisation domain
+PTHR42813	ZINC-TYPE ALCOHOL DEHYDROGENASE-LIKE
+PS00059	Zinc-containing alcohol dehydrogenases signature.
+PF00195	Chalcone and stilbene synthases, N-terminal domain
+PF02797	Chalcone and stilbene synthases, C-terminal domain
+PIRSF000451	PKS_III
+NF042429	3,5-dihydroxyphenylacetyl-CoA synthase DpgA
+PTHR43060	3-HYDROXYISOBUTYRATE DEHYDROGENASE-LIKE 1, MITOCHONDRIAL-RELATED
+PF14833	NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase
+PTHR11772	ASPARAGINE SYNTHETASE
+cd08861	OtcD1_ARO-CYC_like
+PF10604	Polyketide cyclase / dehydrase and lipid transport
+G3DSA:3.10.129.10:FF:000001	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+PTHR30160	TETRAACYLDISACCHARIDE 4'-KINASE-RELATED
+cd20655	CYP93
+PTHR24298	FLAVONOID 3'-MONOOXYGENASE-RELATED
+PTHR24291	CYTOCHROME P450 FAMILY 4
+PTHR30011	ALKANESULFONATE MONOOXYGENASE-RELATED
+PTHR11764	TERPENE CYCLASE/MUTASE FAMILY MEMBER
+SFLDG01016	Prenyltransferase Like 2
+PF13243	Squalene-hopene cyclase C-terminal domain
+TIGR01787	squalene/oxidosqualene cyclases
+PF13249	Squalene-hopene cyclase N-terminal domain
+SFLDF00291	arginine 2,3-aminomutase
+TIGR04468	arginine 2,3-aminomutase
+PTHR42940	ALCOHOL DEHYDROGENASE 1-RELATED
+G3DSA:3.40.50.200	Peptidase S8/S53 domain
+PTHR43806	PEPTIDASE S8
+cd07487	Peptidases_S8_1
+PTHR10566	CHAPERONE-ACTIVITY OF BC1 COMPLEX  CABC1 -RELATED
+PF03936	Terpene synthase family, metal binding domain
+SFLDG01014	Terpene Cyclase Like 1 N-term
+PTHR31739	ENT-COPALYL DIPHOSPHATE SYNTHASE, CHLOROPLASTIC
+G3DSA:1.10.600.10:FF:000005	Ent-kaur-16-ene synthase, chloroplastic
+PF01397	Terpene synthase, N-terminal domain
+cd00684	Terpene_cyclase_plant_C1
+SFLDG01019	Terpene Cyclase Like 1 C Terminal Domain
+PR01239	CYP52 P450 protein signature
+PTHR48084	2-OXOGLUTARATE OXIDOREDUCTASE SUBUNIT KORB-RELATED
+TIGR02401	malto-oligosyltrehalose synthase
+PF23114	HRPKS sdrA-like, NAD(P)-binding Rossmann-fold domain
+G3DSA:3.40.50.150:FF:000652	Lovastatin nonaketide synthase, polyketide synthase component
+cd20620	CYP132-like
+PF01596	O-methyltransferase
+PS51682	SAM-dependent O-methyltransferase class I-type profile.
+PTHR10509	O-METHYLTRANSFERASE-RELATED
+PS00073	Acyl-CoA dehydrogenases signature 2.
+TIGR01835	hydroxymethylglutaryl-CoA synthase
+PTHR43853	3-KETOACYL-COA THIOLASE, PEROXISOMAL
+cd00751	thiolase
+TIGR01930	acetyl-CoA C-acyltransferase
+PF02803	Thiolase, C-terminal domain
+PS00737	Thiolases signature 2.
+G3DSA:3.40.47.10:FF:000022	Acetyl-CoA acetyltransferase
+PF18604	Pre ATP-grasp domain
+G3DSA:3.40.47.10:FF:000089	Putative polyketide beta-ketoacyl synthase 2
+PF04673	Polyketide synthesis cyclase
+G3DSA:3.30.70.1090	Dimeric alpha+beta barrel.
+G3DSA:1.10.600.10:FF:000036	cis-abienol synthase, chloroplastic
+G3DSA:3.30.365.10	Aldehyde oxidase/xanthine dehydrogenase, molybdopterin binding domain
+G3DSA:3.90.1170.50	Aldehyde oxidase/xanthine dehydrogenase, a/b hammerhead
+PF01315	Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain
+PTHR21089	SHIKIMATE DEHYDROGENASE
+PF08501	Shikimate dehydrogenase substrate binding domain
+MF_01482	Mycothiol S-conjugate amidase [mca].
+TIGR03446	mycothiol conjugate amidase Mca
+cd17655	A_NRPS_Bac
+cd17656	A_NRPS_ProA
+NF038155	FDLD family class I lanthipeptide
+PF13535	ATP-grasp domain
+PF03284	Phenazine biosynthesis protein A/B
+PF01040	UbiA prenyltransferase family
+G3DSA:1.10.357.140	UbiA prenyltransferase
+PTHR42723	CHLOROPHYLL SYNTHASE
+cd07412	MPP_YhcR_N
+PF05050	Methyltransferase FkbM domain
+cd11053	CYP110-like
+G3DSA:3.20.20.100:FF:000004	Oxidoreductase, aldo/keto reductase
+PTHR30576	COLANIC BIOSYNTHESIS UDP-GLUCOSE LIPID CARRIER TRANSFERASE
+PF01593	Flavin containing amine oxidoreductase
+NF033173	dihydroanticapsin 7-dehydrogenase
+cd17636	PtmA
+cd11029	CYP107-like
+G3DSA:1.10.357.140:FF:000008	4-hydroxybenzoate octaprenyltransferase
+G3DSA:1.20.120.1780	UbiA prenyltransferase
+G3DSA:3.30.300.30:FF:000084	Enniatin synthase
+cd19542	CT_NRPS-like
+cd20484	C_PKS-NRPS_PksJ-like
+cd12116	A_NRPS_Ta1_like
+SSF89796	CoA-transferase family III (CaiB/BaiF)
+PF02515	CoA-transferase family III
+PR00413	Haloacid dehalogenase/epoxide hydrolase family signature
+PTHR43433	HYDROLASE, ALPHA/BETA FOLD FAMILY PROTEIN
+PF13302	Acetyltransferase (GNAT) domain
+TIGR04544	beta-methylarginine biosynthesis bifunctional aminotransferase
+cd01095	Nitrilotriacetate_monoxgenase
+TIGR03860	NtaA/DmoA family FMN-dependent monooxygenase
+G3DSA:3.30.559.30:FF:000003	Nonribosomal peptide synthase SidD
+PS00099	Thiolases active site.
+G3DSA:3.40.47.10:FF:000010	Acetyl-CoA acetyltransferase (Thiolase)
+SFLDG01018	Squalene/Phytoene Synthase Like
+NF042419	15-cis-phytoene synthase CrtB
+cd05274	KR_FAS_SDR_x
+PR01397	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase signature
+G3DSA:3.40.50.720:FF:000160	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+TIGR04316	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+MF_01025	2-isopropylmalate synthase [leuA].
+G3DSA:3.20.20.70:FF:000010	2-isopropylmalate synthase
+G3DSA:1.10.238.260:FF:000001	2-isopropylmalate synthase
+G3DSA:3.30.160.270:FF:000003	2-isopropylmalate synthase
+TIGR00973	2-isopropylmalate synthase
+SSF110921	2-isopropylmalate synthase LeuA, allosteric (dimerisation) domain
+G3DSA:1.10.1200.10:FF:000019	Phenolpthiocerol synthesis type-I polyketide synthase PPSA
+cd07482	Peptidases_S8_Lantibiotic_specific_protease
+PIRSF037875	EpiP_NisP_MutP
+PR01779	Lantibiotic leader peptide processing protein signature
+G3DSA:3.40.140.10:FF:000016	Cytosine deaminase
+TIGR02275	(2,3-dihydroxybenzoyl)adenylate synthase
+PF02798	Glutathione S-transferase, N-terminal domain
+PF00043	Glutathione S-transferase, C-terminal domain
+PTHR44051	GLUTATHIONE S-TRANSFERASE-RELATED
+G3DSA:3.10.129.110:FF:000001	Sterigmatocystin biosynthesis polyketide synthase
+TIGR04532	polyketide product template domain
+G3DSA:3.40.366.10:FF:000017	Non-reducing polyketide synthase aptA
+G3DSA:1.10.1200.10:FF:000011	Sterigmatocystin biosynthesis polyketide synthase
+G3DSA:3.40.47.10:FF:000031	Sterigmatocystin biosynthesis polyketide synthase
+PF02627	Carboxymuconolactone decarboxylase family
+PTHR34846	4-CARBOXYMUCONOLACTONE DECARBOXYLASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_6G11590)
+PTHR43544	SHORT-CHAIN DEHYDROGENASE/REDUCTASE
+PTHR48106	QUINONE OXIDOREDUCTASE PIG3-RELATED
+PF21761	NADPH-dependent reductive aminase-like, C-terminal domain
+PTHR43580	OXIDOREDUCTASE GLYR1-RELATED
+SFLDS00029	Radical SAM
+PF00198	2-oxoacid dehydrogenases acyltransferase (catalytic domain)
+PS00189	2-oxo acid dehydrogenases acyltransferase component lipoyl binding site.
+PTHR43257	PYRUVATE DEHYDROGENASE E1 COMPONENT BETA SUBUNIT
+PTHR43720	2-AMINOMUCONIC SEMIALDEHYDE DEHYDROGENASE
+cd00830	KAS_III
+PF08545	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+cd11068	CYP120A1
+G3DSA:3.40.50.80:FF:000031	Bifunctional cytochrome P450/NADPH--P450 reductase
+PTHR19384	NITRIC OXIDE SYNTHASE-RELATED
+PF00175	Oxidoreductase NAD-binding domain
+PIRSF000209	Bifunctional_P450_P450R
+G3DSA:1.10.630.10:FF:000040	Bifunctional cytochrome P450/NADPH--P450 reductase
+G3DSA:1.20.990.10:FF:000011	Bifunctional cytochrome P450/NADPH--P450 reductase
+PF00667	FAD binding domain
+cd06206	bifunctional_CYPOR
+PF04715	Anthranilate synthase component I, N terminal region
+TIGR03947	capreomycidine synthase
+cd11037	CYP199A2-like
+PR00469	Pyridine nucleotide disulphide reductase class-II signature
+SSF53328	Formyltransferase
+PF02911	Formyl transferase, C-terminal domain
+PF00551	Formyl transferase
+G3DSA:2.40.110.10:FF:000009	Acyl-CoA dehydrogenase
+G3DSA:1.10.540.10:FF:000002	Acyl-CoA dehydrogenase FadE19
+G3DSA:1.20.140.10:FF:000001	Acyl-CoA dehydrogenase
+G3DSA:3.40.50.720:FF:000644	NAD dependent epimerase/dehydratase family, putative
+G3DSA:3.40.50.2000:FF:000009	Sterol 3-beta-glucosyltransferase UGT80A2
+PF03364	Polyketide cyclase / dehydrase and lipid transport
+PS00895	3-hydroxyisobutyrate dehydrogenase signature.
+PTHR22981	3-HYDROXYISOBUTYRATE DEHYDROGENASE-RELATED
+G3DSA:1.10.1040.10:FF:000006	3-hydroxyisobutyrate dehydrogenase
+TIGR01692	3-hydroxyisobutyrate dehydrogenase
+PTHR43639	OXIDOREDUCTASE, SHORT-CHAIN DEHYDROGENASE/REDUCTASE FAMILY (AFU_ORTHOLOGUE AFUA_5G02870)
+NF033530	lasso peptide biosynthesis PqqD family chaperone
+NF042432	(3,5-dihydroxyphenyl)acetyl-CoA 1,2-dioxygenase DpgC
+G3DSA:1.20.1440.110	acylaminoacyl peptidase
+PTHR11695	ALCOHOL DEHYDROGENASE RELATED
+PTHR43900	GLUTATHIONE S-TRANSFERASE RHO
+SFLDS00019	Glutathione Transferase (cytosolic)
+SFLDG01154	Main.5: Phi-like
+G3DSA:1.20.1050.10:FF:000004	Glutathione S-transferase F2
+G3DSA:3.40.30.10:FF:000016	Glutathione S-transferase F2
+PS00862	Oxygen oxidoreductases covalent FAD-binding site.
+PF11583	P-aminobenzoate N-oxygenase AurF
+TIGR02734	phytoene desaturase family protein
+PIRSF000094	Enoyl-ACP_rdct
+G3DSA:3.40.50.720:FF:000127	Enoyl-[acyl-carrier-protein] reductase [NADH]
+PTHR43159	ENOYL-[ACYL-CARRIER-PROTEIN] REDUCTASE
+PS50979	Biotin carboxylation domain profile.
+PTHR48095	PYRUVATE CARBOXYLASE SUBUNIT A
+G3DSA:3.30.1490.20:FF:000003	acetyl-CoA carboxylase isoform X1
+PF00289	Biotin carboxylase, N-terminal domain
+PF02785	Biotin carboxylase C-terminal domain
+G3DSA:1.10.10.10:FF:001051	Carminomycin 4-O-methyltransferase DnrK
+PR00753	1-aminocyclopropane-1-carboxylate synthase signature
+PF12559	Serine endopeptidase inhibitors
+NF033738	microviridin/marinostatin family tricyclic proteinase inhibitor
+cd05675	M20_yscS_like
+G3DSA:3.40.630.10:FF:000023	M20/M25/M40 family metallo-hydrolase
+PF01546	Peptidase family M20/M25/M40
+PTHR43808	ACETYLORNITHINE DEACETYLASE
+G3DSA:3.40.50.1380:FF:000015	Carbamoyl-phosphate synthase arginine-specific large chain
+cd07477	Peptidases_S8_Subtilisin_subset
+PTHR43248	2-SUCCINYL-6-HYDROXY-2,4-CYCLOHEXADIENE-1-CARBOXYLATE SYNTHASE
+cd05906	A_NRPS_TubE_like
+G3DSA:3.40.50.720:FF:001499	Short-chain dehydrogenase/reductase pkfC
+PIRSF001111	Isochorismatase
+TIGR02426	3-carboxy-cis,cis-muconate cycloisomerase
+PF16911	Phthiocerol/phthiodiolone dimycocerosyl transferase C-terminus
+PTHR28037	ALCOHOL O-ACETYLTRANSFERASE 1-RELATED
+PF03060	Nitronate monooxygenase
+PTHR32332	2-NITROPROPANE DIOXYGENASE
+SSF51395	FMN-linked oxidoreductases
+PF21607	[Acyl-carrier-protein] S-malonyltransferase, inserted helical domain
+cd04742	NPD_FabD
+TIGR02814	PfaD family polyunsaturated fatty acid/polyketide biosynthesis domain
+PF18328	Fatty acid synthase subunit PfaD N-terminal domain
+PTHR42760	SHORT-CHAIN DEHYDROGENASES/REDUCTASES FAMILY MEMBER
+G3DSA:3.90.400.10:FF:000008	Oligo-1,6-glucosidase
+G3DSA:2.60.40.1180:FF:000007	Sucrose isomerase
+G3DSA:3.20.20.80:FF:000064	Oligo-1,6-glucosidase
+cd20625	CYP164-like
+G3DSA:2.40.110.10:FF:000002	Acyl-CoA dehydrogenase fadE12
+G3DSA:1.10.600.10:FF:000007	Isoprene synthase, chloroplastic
+G3DSA:1.50.10.130:FF:000001	Isoprene synthase, chloroplastic
+PTHR31225	OS04G0344100 PROTEIN-RELATED
+PF17951	Fatty acid synthase meander beta sheet domain
+G3DSA:3.30.70.3330:FF:000001	Fatty acid synthase subunit beta dehydratase
+G3DSA:3.40.366.10:FF:000006	Fatty acid synthase beta subunit dehydratase
+PF22235	Fatty acid synthase subunit beta, insertion domain
+PR01483	Fatty acid synthase signature
+G3DSA:1.20.930.70:FF:000001	Fatty acid synthase beta subunit dehydratase
+G3DSA:3.20.20.70:FF:000078	Fatty acid synthase beta subunit dehydratase
+PF08354	Fatty acid synthase subunit beta/Fas1-like, helical
+PTHR42790	AMINOTRANSFERASE
+G3DSA:3.90.820.10:FF:000002	MbtH family protein
+PF22234	Mycothiol-dependent nitroreductase Rv2466c
+G3DSA:3.30.470.20:FF:000014	Carbamoyl-phosphate synthase large chain
+G3DSA:3.30.559.30:FF:000002	Nonribosomal peptide synthase Pes1
+G3DSA:3.30.559.10:FF:000016	Nonribosomal peptide synthase Pes1
+NF000539	plantaricin C family lantibiotic
+PTHR13932	COPROPORPHYRINIGEN III OXIDASE
+SFLDF00432	pyrimidine ring methyltransferase (bleomycin-like antibiotic biosynthesis)
+G3DSA:3.40.47.10:FF:000042	Polyketide synthase Pks13
+cd20630	P450_epoK-like
+PTHR43272	LONG-CHAIN-FATTY-ACID--COA LIGASE
+PTHR47470	CHOLESTEROL OXIDASE
+PF05199	GMC oxidoreductase
+PF00732	GMC oxidoreductase
+TIGR02262	benzoate-CoA ligase family protein
+PTHR43352	ACETYL-COA SYNTHETASE
+PTHR45458	SHORT-CHAIN DEHYDROGENASE/REDUCTASE SDR
+PIRSF000509	Trp_DMAT
+TIGR03429	DMATS family aromatic prenyltransferase
+cd13929	PT-DMATS_CymD
+SFLDS00036	Aromatic Prenyltransferase
+PF11991	Tryptophan dimethylallyltransferase
+cd11058	CYP60B-like
+G3DSA:3.40.50.2000:FF:000261	Putative glycosyl transferase
+MF_01217	Acyl carrier protein [acpP].
+G3DSA:2.40.50.100:FF:000003	Acetyl-CoA carboxylase biotin carboxyl carrier protein
+PTHR18866	CARBOXYLASE:PYRUVATE/ACETYL-COA/PROPIONYL-COA CARBOXYLASE
+TIGR03678	microcyclamide/patellamide family RiPP
+PTHR42778	2-AMINOETHYLPHOSPHONATE--PYRUVATE TRANSAMINASE
+G3DSA:1.10.630.10:FF:000047	Cytochrome P450 monooxygenase
+G3DSA:3.40.50.720:FF:000381	Probable polyketide synthase pks17
+PTHR43563	AMINE OXIDASE
+G3DSA:1.10.630.10:FF:000069	Cytochrome P450, putative (Eurofung)
+cd04747	OYE_like_5_FMN
+PF00724	NADH:flavin oxidoreductase / NADH oxidase family
+G3DSA:3.20.20.70:FF:000262	NADH:flavin oxidoreductase
+PTHR43303	NADPH DEHYDROGENASE C23G7.10C-RELATED
+TIGR03651	circular bacteriocin, circularin A/uberolysin family
+cd07080	ALDH_Acyl-CoA-Red_LuxC
+PF05893	Acyl-CoA reductase (LuxC)
+PR01953	Subtilin biosynthesis protein SpaC signature
+PF02826	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+SSF52283	Formate/glycerate dehydrogenase catalytic domain-like
+PS00670	D-isomer specific 2-hydroxyacid dehydrogenases signature 2.
+PF00389	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+PS00065	D-isomer specific 2-hydroxyacid dehydrogenases NAD-binding signature.
+PTHR10996	2-HYDROXYACID DEHYDROGENASE-RELATED
+SSF55904	Ornithine decarboxylase C-terminal domain
+cd00615	Orn_deC_like
+PF03711	Orn/Lys/Arg decarboxylase, C-terminal domain
+PTHR43277	ARGININE DECARBOXYLASE
+PF01276	Orn/Lys/Arg decarboxylase, major domain
+cd13930	PT-Tnase
+PTHR11746	O-METHYLTRANSFERASE
+G3DSA:1.10.10.10:FF:000357	Caffeic acid 3-O-methyltransferase
+G3DSA:3.40.50.12780:FF:000133	D-alanine--poly(Phosphoribitol) ligase
+G3DSA:3.40.50.620:FF:000106	Glutamine-dependent NAD(+) synthetase
+MF_02090	Glutamine-dependent NAD(+) synthetase [nadE].
+TIGR03944	2,3-diaminopropionate biosynthesis protein SbnB
+PF02423	Ornithine cyclodeaminase/mu-crystallin family
+G3DSA:3.30.1780.10	ornithine cyclodeaminase, domain 1
+G3DSA:1.10.630.10:FF:000022	Taxadiene 5-alpha hydroxylase
+PF18314	Fatty acid synthase type I helical domain
+PF18325	Fatty acid synthase subunit alpha Acyl carrier domain
+G3DSA:3.40.640.10:FF:000230	Neamine transaminase NeoN
+SFLDG00055	glucarate dehydratase
+cd03323	D-glucarate_dehydratase
+G3DSA:1.10.275.10:FF:000006	Adenylosuccinate lyase
+PF21124	VinK acyltransferase small domain
+G3DSA:3.40.50.1820:FF:000116	Sterigmatocystin biosynthesis polyketide synthase
+TIGR00709	diaminobutyrate--2-oxoglutarate transaminase family protein
+G3DSA:3.40.640.10:FF:000004	Acetylornithine aminotransferase
+PTHR43552	DIAMINOBUTYRATE--2-OXOGLUTARATE AMINOTRANSFERASE
+G3DSA:3.40.47.10:FF:000103	3,5-dihydroxyphenylacetyl-CoA synthase
+G3DSA:3.40.47.10:FF:000014	Chalcone synthase 1
+PTHR23024	ARYLACETAMIDE DEACETYLASE
+TIGR00747	beta-ketoacyl-ACP synthase III
+PTHR42912	METHYLTRANSFERASE
+cd07484	Peptidases_S8_Thermitase_like
+PIRSF037226	Amidohydrolase_ACY1L2
+TIGR01891	amidohydrolase
+PTHR30575	PEPTIDASE M20
+G3DSA:3.20.20.10:FF:000008	Ornithine decarboxylase
+PR01182	Ornithine decarboxylase signature
+G3DSA:2.40.37.10:FF:000004	Ornithine decarboxylase
+PS00878	Orn/DAP/Arg decarboxylases family 2 pyridoxal-P attachment site.
+PS00879	Orn/DAP/Arg decarboxylases family 2 signature 2.
+PTHR11482	ARGININE/DIAMINOPIMELATE/ORNITHINE DECARBOXYLASE
+PF13489	Methyltransferase domain
+G3DSA:1.20.120.1780:FF:000001	4-hydroxybenzoate octaprenyltransferase
+PF18065	PatG C-terminal
+PF18047	PatG Domain
+cd07476	Peptidases_S8_thiazoline_oxidase_subtilisin-li...
+TIGR03895	PatA/PatG family cyanobactin maturation protease
+PTHR24299	CYTOCHROME P450 FAMILY 1
+NF033401	thiocillin/thiostrepton family thiazolyl peptide
+TIGR03892	thiazolylpeptide-type bacteriocin precursor
+PTHR43591	METHYLTRANSFERASE
+G3DSA:3.10.129.10:FF:000111	Fatty acid synthase beta subunit aflB
+G3DSA:3.30.70.2430:FF:000001	Fatty acid synthase subunit beta
+G3DSA:2.40.128.700:FF:000002	Fatty acid synthase beta subunit aflB
+PF13452	FAS1-like, dehydratase domain region
+SSF55103	FAD-linked oxidases, C-terminal domain
+TIGR04446	anacyclamide/piricyclamide family prenylated cyclic peptide
+PF03061	Thioesterase superfamily
+PTHR43240	1,4-DIHYDROXY-2-NAPHTHOYL-COA THIOESTERASE 1
+PTHR42901	ALCOHOL DEHYDROGENASE
+PF13471	Transglutaminase-like superfamily
+NF033537	lasso peptide biosynthesis B2 protein
+NF041195	ScbA/BarX family gamma-butyrolactone biosynthesis protein
+TIGR01790	lycopene cyclase family protein
+TIGR01789	lycopene beta-cyclase CrtY
+TIGR02813	polyketide-type polyunsaturated fatty acid synthase PfaA
+TIGR00835	amino acid carrier protein
+G3DSA:1.20.1740.10:FF:000059	Na(+)-linked D-alanine glycine permease
+PF21331	Isoamylase, C-terminal
+PTHR42722	LEUCINE DEHYDROGENASE
+PF05448	Acetyl xylan esterase (AXE1)
+TIGR04159	methanobactin biosynthesis protein MbnB
+PF05116	Sucrose-6F-phosphate phosphohydrolase
+PS00573	Pyridine nucleotide-disulphide oxidoreductases class-II active site.
+PF02655	ATP-grasp domain
+PF00743	Flavin-binding monooxygenase-like
+SFLDF00434	3-methyl-2-indolic acid methyltransferase (NocN/NosN like)
+TIGR03560	TIGR03560 family F420-dependent LLM class oxidoreductase
+PTHR40086	PHOSPHOTRANSFERASE YTMP-RELATED
+PTHR43300	ACETYLTRANSFERASE
+PF22767	Cyanobactin oxidase ThcOx,
+G3DSA:3.30.1490.20:FF:000015	N5-carboxyaminoimidazole ribonucleotide synthase
+PF02222	ATP-grasp domain
+G3DSA:3.30.470.20:FF:000029	N5-carboxyaminoimidazole ribonucleotide synthase
+cd11033	CYP142-like
+TIGR02819	formaldehyde dehydrogenase, glutathione-independent
+G3DSA:1.10.600.10:FF:000001	Geranylgeranyl diphosphate synthase
+PTHR43281	FARNESYL DIPHOSPHATE SYNTHASE
+PF07507	WavE lipopolysaccharide synthesis
+TIGR03196	xanthine dehydrogenase subunit D
+SFLDG01123	methyltransferase (Class B)
+SFLDF00436	pactamycin C-methyltransferase (PctJ-like)
+NF033712	KedN5 family methylcobalamin-dependent radical SAM C-methyltransferase
+SFLDF00317	thioacetal methlytransferase (Swb9-like)
+TIGR03430	tryptophan dimethylallyltransferase
+cd08284	FDH_like_2
+cd12115	A_NRPS_Sfm_like
+TIGR00564	anthranilate synthase component I
+PTHR42917	2,4-DIENOYL-COA REDUCTASE
+PIRSF037228	Lan_mod_RumM
+G3DSA:3.40.50.720:FF:000336	Aldehyde reductase
+G3DSA:3.90.226.10:FF:000041	Propionyl-CoA carboxylase subunit beta
+PTHR22855	ACETYL, PROPIONYL, PYRUVATE, AND GLUTACONYL CARBOXYLASE-RELATED
+cd11061	CYP67-like
+cd13127	MATE_tuaB_like
+MF_01935	Isochorismate synthase MenF [menF].
+G3DSA:3.30.559.30:FF:000028	Non-ribosomal peptide synthetase OfaC
+NF045556	thiopeptide maturation pyridine synthase
+G3DSA:3.40.50.1820:FF:000592	Aclacinomycin methylesterase RdmC
+G3DSA:3.40.50.1820:FF:000510	AflJ/ estA/ esterase
+PTHR35201	TERPENE SYNTHASE
+SFLDG01020	Terpene Cyclase Like 2
+G3DSA:1.10.600.10:FF:000019	2-methylisoborneol synthase
+NF041167	family 2 encapsulin nanocompartment cargo protein terpene cyclase
+SFLDG01122	methyltransferase (class C)
+NF042431	enoyl-CoA-hydratase DpgB
+PF13444	Acetyltransferase (GNAT) domain
+PF19576	Acyltransferase
+NF041038	rhizoferrin biosynthesis protein FslA
+cd13931	PT-CloQ_NphB
+SSF143492	Prenyltransferase-like
+PF11468	Aromatic prenyltransferase Orf2
+G3DSA:1.10.1200.10:FF:000021	Isochorismatase
+G3DSA:3.40.50.850:FF:000002	Vibriobactin-specific isochorismatase
+cd01013	isochorismatase
+G3DSA:3.40.50.720:FF:000039	Alcohol dehydrogenase AdhP
+PTHR48098	ENTEROCHELIN ESTERASE-RELATED
+PR00370	Flavin-containing monooxygenase (FMO) signature
+PF05141	Pyoverdine/dityrosine biosynthesis protein
+PTHR37285	SPORE WALL MATURATION PROTEIN DIT1
+PIRSF037196	PvcA
+PF22664	Trichothecene 3-O-acetyltransferase-like N-terminal domain
+PTHR43673	NAD(P)H NITROREDUCTASE YDGI-RELATED
+TIGR02816	PfaB family protein
+PTHR42803	ACYL-COA DEHYDROGENASE
+G3DSA:1.20.140.10:FF:000016	Acyl-CoA dehydrogenase FadE5
+PF12806	Acetyl-CoA dehydrogenase C-terminal like
+G3DSA:2.40.110.20:FF:000001	Acyl-CoA dehydrogenase AidB
+PF12418	Acyl-CoA dehydrogenase N terminal
+PF00282	Pyridoxal-dependent decarboxylase conserved domain
+cd04792	LanM-like
+G3DSA:2.40.110.10:FF:000011	Acyl-CoA dehydrogenase FadE34
+cd17650	A_NRPS_PpsD_like
+PR01070	Acetyl-CoA carboxylase carboxyl transferase beta subunit signature
+MF_00336	ATP-dependent dethiobiotin synthetase BioD [bioD].
+G3DSA:3.90.1150.10:FF:000080	Bifunctional dethiobiotin synthetase/adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+G3DSA:3.40.50.300:FF:001677	Bifunctional dethiobiotin synthetase/adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+PTHR42684	ADENOSYLMETHIONINE-8-AMINO-7-OXONONANOATE AMINOTRANSFERASE
+G3DSA:3.40.640.10:FF:000122	Bifunctional dethiobiotin synthetase/adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+cd00306	Peptidases_S8_S53
+G3DSA:3.40.50.920:FF:000001	Pyruvate dehydrogenase E1 beta subunit
+PIRSF000332	FMO
+G3DSA:3.50.50.60:FF:000023	Dimethylaniline monooxygenase [N-oxide-forming]
+PTHR23023	DIMETHYLANILINE MONOOXYGENASE
+G3DSA:3.20.20.10:FF:000005	Ornithine decarboxylase
+PF23562	AMP-binding enzyme C-terminal domain
+PTHR43439	PHENYLACETATE-COENZYME A LIGASE
+cd20615	CYP_GliC-like
+PTHR45649	AMINO-ACID PERMEASE BAT1
+TIGR04053	TIGR04053 family radical SAM/SPASM domain-containing protein
+TIGR04466	cytosylglucuronate decarboxylase
+SFLDF00517	cytosylglucuronate decarboxylase
+SFLDG01216	thioether bond formation requiring one auxiliary iron-sulfur cluster
+TIGR04022	SfnB family sulfur acquisition oxidoreductase
+PTHR43638	OXIDOREDUCTASE, ALDO/KETO REDUCTASE FAMILY PROTEIN
+PTHR43779	DIOXYGENASE RV0097-RELATED
+cd11059	CYP_fungal
+PTHR18919	ACETYL-COA C-ACYLTRANSFERASE
+G3DSA:3.30.559.30:FF:000067	Putative peptide synthetase
+G3DSA:3.30.559.10:FF:000153	Putative peptide synthetase
+G3DSA:3.30.300.30:FF:000018	Non-ribosomal peptide synthetase 3
+G3DSA:3.40.50.1820:FF:000404	Non-ribosomal peptide synthetase
+G3DSA:3.50.50.60:FF:000171	zeta-carotene-forming phytoene desaturase
+SFLDF00009	o-succinylbenzoate synthase
+MF_01933	o-succinylbenzoate synthase [menC].
+PTHR42858	AMINOTRANSFERASE
+TIGR04461	enduracididine biosynthesis enzyme MppQ
+MF_01601	ADP-L-glycero-D-manno-heptose-6-epimerase [hldD].
+cd04168	TetM_like
+cd01684	Tet_like_IV
+cd16441	beta_Kdo_transferase_KpsS
+NF033753	CypD family RiPP peptide-cysteine decarboxylase
+PTHR32487	3-OXO-DELTA(4,5)-STEROID 5-BETA-REDUCTASE
+PF22917	PRISE-like Rossmann-fold domain
+PS00671	D-isomer specific 2-hydroxyacid dehydrogenases signature 3.
+G3DSA:3.40.640.10:FF:000091	Diaminobutyrate--2-oxoglutarate aminotransferase
+cd11049	CYP170A1-like
+NF045812	pentalenene oxygenase
+PTHR43199	GLUTATHIONE HYDROLASE
+PTHR45128	METHYLTRANSFERASE TYPE 11
+TIGR03799	pyridoxal-dependent aspartate 1-decarboxylase PanP
+TIGR04404	sporulation killing factor
+PF01553	Acyltransferase
+TIGR01762	chlorinating enzyme
+PTHR43313	SHORT-CHAIN DEHYDROGENASE/REDUCTASE FAMILY 9C
+PTHR43459	ENOYL-COA HYDRATASE
+G3DSA:2.40.110.10:FF:000020	Putative acyl-CoA dehydrogenase YdbM
+G3DSA:1.10.540.10:FF:000025	Related to Dibenzothiophene desulfurization enzyme C
+PTHR42685	GERANYLGERANYL DIPHOSPHATE REDUCTASE
+PIRSF000137	Alcohol_oxidase
+MF_01611	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase [cofG].
+SFLDG01389	menaquinone synthsis involved
+G3DSA:3.20.20.70:FF:000134	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+SFLDF00293	((2,3,4,5-tetrahydroxypentyl)amino)dihydropyrimidine-2,4-dione synthase (CofH-like)
+TIGR00423	CofH family radical SAM protein
+TIGR03550	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase CofG
+SFLDF00294	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase (CofG-like)
+PF22580	Kynureninase C-terminal domain
+MF_01970	Kynureninase [kynU].
+PTHR14084	KYNURENINASE
+PTHR42770	AMINO ACID TRANSPORTER-RELATED
+PTHR43347	ACYL-COA SYNTHETASE
+G3DSA:3.30.300.30:FF:000090	Acetate-CoA ligase, putative
+G3DSA:3.40.50.12780:FF:000101	Acetate-CoA ligase, putative
+MF_00005	Argininosuccinate synthase [argG].
+PS00564	Argininosuccinate synthase signature 1.
+G3DSA:3.90.1260.10	Argininosuccinate synthetase, chain A, domain 2
+G3DSA:3.90.1260.10:FF:000007	Argininosuccinate synthase
+PF00764	Arginosuccinate synthase N-terminal HUP domain
+PS00565	Argininosuccinate synthase signature 2.
+G3DSA:1.20.5.470:FF:000002	Argininosuccinate synthase
+PF20979	Arginosuccinate synthase C-terminal domain
+SSF69864	Argininosuccinate synthetase, C-terminal domain
+cd01999	Argininosuccinate_Synthase
+G3DSA:3.40.50.620:FF:000038	Argininosuccinate synthase
+PTHR11587	ARGININOSUCCINATE SYNTHASE
+TIGR00032	argininosuccinate synthase
+PTHR42707	ACYL-COA DEHYDROGENASE
+G3DSA:1.20.200.10:FF:000014	3-carboxy-cis,cis-muconate cycloisomerase
+MF_00520	Ribulokinase [araB].
+G3DSA:3.30.70.580:FF:000005	Pseudouridine synthase
+PTHR47534	YALI0E05731P
+PIRSF001388	Trichodiene_synth
+PF06330	Trichodiene synthase (TRI5)
+SFLDG01021	Trichodiene Synthase Like
+PTHR43329	EPOXIDE HYDROLASE
+G3DSA:3.30.1880.10	protein ne1242 domain like
+PF06236	Tyrosinase co-factor MelC1
+PF12831	FAD dependent oxidoreductase
+PS00840	Uroporphyrin-III C-methyltransferase signature 2.
+cd08251	polyketide_synthase
+PIRSF005962	Amidohydrol_AmhX
+PTHR11014	PEPTIDASE M20 FAMILY MEMBER
+PTHR43380	2-OXOISOVALERATE DEHYDROGENASE SUBUNIT ALPHA, MITOCHONDRIAL
+G3DSA:1.10.630.10:FF:000075	Cytochrome P450 monooxygenase helB1
+G3DSA:1.10.630.10:FF:000007	Cytochrome P450 76C4
+PTHR47950	CYTOCHROME P450, FAMILY 76, SUBFAMILY C, POLYPEPTIDE 5-RELATED
+cd11073	CYP76-like
+cd07092	ALDH_ABALDH-YdcW
+cd17644	A_NRPS_ApnA-like
+G3DSA:3.40.50.12780:FF:000016	Phenylacetate-coenzyme A ligase
+PF14535	AMP-binding enzyme C-terminal domain
+PTHR43618	7-ALPHA-HYDROXYSTEROID DEHYDROGENASE
+cd05362	THN_reductase-like_SDR_c
+cd09616	Peptidase_C12_UCH_L1_L3
+PTHR22893	NADH OXIDOREDUCTASE-RELATED
+G3DSA:3.20.20.70:FF:000138	NADPH dehydrogenase 1
+PTHR24282	CYTOCHROME P450 FAMILY MEMBER
+SSF53323	Pyruvate-ferredoxin oxidoreductase, PFOR, domain III
+PF01558	Pyruvate ferredoxin/flavodoxin oxidoreductase
+G3DSA:3.30.70.360:FF:000007	Peptidase, M20/M25/M40 family
+PR01885	Macromomycin family signature
+PF00960	Neocarzinostatin family
+NF040680	enediyne antibiotic chromoprotein
+PTHR43809	NITRITE REDUCTASE (NADH) LARGE SUBUNIT
+G3DSA:1.10.10.1100:FF:000002	Nitrite reductase large subunit
+PF03460	Nitrite/Sulfite reductase ferredoxin-like half domain
+PF01077	Nitrite and sulphite reductase 4Fe-4S domain
+SSF55124	Nitrite/Sulfite reductase N-terminal domain-like
+TIGR02374	nitrite reductase large subunit NirB
+G3DSA:3.50.50.60:FF:000033	Nitrite reductase [NAD(P)H], large subunit
+SSF56014	Nitrite and sulphite reductase 4Fe-4S domain-like
+TIGR01830	3-oxoacyl-[acyl-carrier-protein] reductase
+PS01295	4-diphosphocytidyl-2C-methyl-D-erythritol synthase signature.
+G3DSA:3.40.50.980:FF:000004	2,3-dihydroxybenzoate-AMP ligase
+cd08860	TcmN_ARO-CYC_like
+G3DSA:3.40.50.620:FF:000079	Probable nicotinate-nucleotide adenylyltransferase
+G3DSA:1.10.510.10:FF:000021	Serine/threonine protein kinase
+PTHR43056	PEPTIDASE S9 PROLYL OLIGOPEPTIDASE
+TIGR03603	thiazole/oxazole-forming peptide maturase, SagC family component
+PS50990	Peptidase family C39 domain profile.
+cd02418	Peptidase_C39B
+PF03412	Peptidase C39 family
+G3DSA:1.20.140.10:FF:000004	Acyl-CoA dehydrogenase FadE25
+cd11067	CYP152
+G3DSA:3.50.50.60:FF:000135	L-lysine 6-monooxygenase IucD
+PF22386	Protease propeptides/inhibitors
+G3DSA:3.30.70.80	Peptidase S8 propeptide/proteinase inhibitor I9
+SFLDF00438	pactamycin methyltransferase (PctO-like)
+cd02068	radical_SAM_B12_BD
+SFLDF00418	pactamycin C-methyltransferase (PctN-like)
+PTHR38436	POLYKETIDE CYCLASE SNOAL-LIKE DOMAIN
+NF033407	SnoaL/DnrD family polyketide biosynthesis methyl ester cyclase
+PF16715	Cyclodipeptide synthase
+PTHR43677	SHORT-CHAIN DEHYDROGENASE/REDUCTASE
+PF18679	ThcOx helix turn helix domain
+SSF75304	Amidase signature (AS) enzymes
+PF01425	Amidase
+PS00571	Amidases signature.
+TIGR04021	dimethylsulfone monooxygenase SfnG
+cd01094	Alkanesulfonate_monoxygenase
+PTHR43031	FAD-DEPENDENT OXIDOREDUCTASE
+G3DSA:3.40.50.720:FF:000979	Chanoclavine-I dehydrogenase easD
+G3DSA:1.10.630.10:FF:000063	Cytochrome P450 monooxygenase
+TIGR00702	YcaO-type kinase domain
+PF21084	Winged Helix-turn-helix domain
+TIGR01828	pyruvate, phosphate dikinase
+cd06842	PLPDE_III_Y4yA_like
+G3DSA:3.20.20.70:FF:000059	N-ethylmaleimide reductase, FMN-linked
+G3DSA:3.40.50.720:FF:000811	AflH/ adhA/ short chain alcohol dehydrogenase
+PF11806	Enterochelin esterase, N-terminal
+SFLDG01278	biotin synthase like
+TIGR00433	biotin synthase BioB
+G3DSA:3.20.20.70:FF:000026	Biotin synthase
+PF06968	Biotin and Thiamin Synthesis associated domain
+PTHR22976	BIOTIN SYNTHASE
+G3DSA:1.20.1740.10:FF:000017	Amino acid permease
+MF_01106	Arginine biosynthesis bifunctional protein ArgJ [argJ].
+G3DSA:3.10.20.340:FF:000003	Arginine biosynthesis bifunctional protein ArgJ
+TIGR00120	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+PTHR23100	ARGININE BIOSYNTHESIS BIFUNCTIONAL PROTEIN ARGJ
+G3DSA:3.90.550.10:FF:000306	Uncharacterized glycosyltransferase YwdF
+PTHR43825	PYRUVATE DEHYDROGENASE E1 COMPONENT
+NF040542	RCCLKC-tail radical SAM protein
+NF040537	arsinothricin biosynthesis radical SAM protein ArsL
+PTHR43094	AMINOTRANSFERASE
+cd07078	ALDH
+SSF53706	Formate dehydrogenase/DMSO reductase, domains 1-3
+TIGR01580	nitrate reductase subunit alpha
+G3DSA:3.40.50.12440:FF:000001	Nitrate reductase subunit alpha
+MF_01633	7-cyano-7-deazaguanine synthase [queC].
+TIGR00364	7-cyano-7-deazaguanine synthase QueC
+PTHR42914	7-CYANO-7-DEAZAGUANINE SYNTHASE
+MF_00907	Proofreading thioesterase EntH [entH].
+G3DSA:3.10.129.10:FF:000002	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+PIRSF036934	TrpE-G
+TIGR01815	anthranilate synthase
+cd07560	Peptidase_S41_CPP
+G3DSA:3.90.226.10:FF:000023	Carboxyl-terminal processing protease
+TIGR00225	carboxy-terminal processing protease
+G3DSA:3.30.750.44:FF:000001	S41 family peptidase
+G3DSA:2.30.42.10:FF:000063	Peptidase, S41 family
+PR00800	Aromatic-L-amino-acid decarboxylase signature
+SFLDF00420	spectinomycin biosynthesis (SpcY-like)
+SFLDG01119	spectinomycin biosynthesis (SpcY-like)
+PTHR47356	FAD-DEPENDENT MONOOXYGENASE ASQG-RELATED
+cd05903	CHC_CoA_lg
+TIGR01356	3-phosphoshikimate 1-carboxyvinyltransferase
+MF_00210	3-phosphoshikimate 1-carboxyvinyltransferase [aroA].
+G3DSA:3.40.50.1820:FF:000520	Thioesterase
+G3DSA:1.50.10.130:FF:000003	Ent-cassa-12,15-diene synthase
+G3DSA:1.50.10.160:FF:000002	cis-abienol synthase, chloroplastic
+G3DSA:3.40.50.1970:FF:000018	Related to 2-epi-5-epi-valiolone synthase
+G3DSA:1.20.1090.10:FF:000015	3-dehydroquinate synthase protein
+TIGR00513	acetyl-CoA carboxylase carboxyl transferase subunit alpha
+TIGR00515	acetyl-CoA carboxylase, carboxyltransferase subunit beta
+PR01069	Acetyl-CoA carboxylase carboxyl transferase alpha subunit signature
+MF_01395	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic [accD].
+PF17848	Acetyl-CoA carboxylase zinc finger domain
+NF041504	carboxyltransferase subunit alpha
+PTHR42853	ACETYL-COENZYME A CARBOXYLASE CARBOXYL TRANSFERASE SUBUNIT ALPHA
+MF_00823	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha [accA].
+PF03255	Acetyl co-enzyme A carboxylase carboxyltransferase-like
+cd11069	CYP_FUM15-like
+PTHR47704	POTASSIUM TRANSPORTER KIMA
+G3DSA:3.40.50.10320:FF:000011	N-acetylglucosaminylphosphatidylinositol deacetylase
+PTHR13789	MONOOXYGENASE
+G3DSA:3.30.559.10:FF:000050	Nonribosomal peptide synthase SidD
+G3DSA:3.30.559.10:FF:000034	Nonribosomal peptide synthase sidD
+G3DSA:3.50.50.60:FF:000378	Phytoene desaturase
+G3DSA:3.50.50.60:FF:000413	Phytoene desaturase (lycopene-forming)
+PTHR32125	2-C-METHYL-D-ERYTHRITOL 4-PHOSPHATE CYTIDYLYLTRANSFERASE, CHLOROPLASTIC
+TIGR00453	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+cd05355	SDR_c1
+PTHR43008	BENZIL REDUCTASE
+SSF56209	Nitrile hydratase alpha chain
+cd05263	MupV_like_SDR_e
+cd11075	CYP77_89
+G3DSA:1.10.630.10:FF:000012	Cytochrome P450 family protein
+G3DSA:3.30.300.30:FF:000028	AMP-dependent synthetase
+PTHR43605	ACYL-COENZYME A SYNTHETASE
+PTHR43490	(+)-NEOMENTHOL DEHYDROGENASE
+MF_02120	Diaminopimelate decarboxylase [lysA].
+TIGR01048	diaminopimelate decarboxylase
+G3DSA:3.20.20.10:FF:000003	Diaminopimelate decarboxylase
+TIGR03844	cysteate synthase
+PF13409	Glutathione S-transferase, N-terminal domain
+PIRSF001619	Biotin_synth
+PTHR47944	CYTOCHROME P450 98A9
+PTHR24279	CYTOCHROME P450
+G3DSA:1.10.630.10:FF:000072	3-hydroxyphenylacetate 6 hydroxylase
+cd11066	CYP_PhacA-like
+PTHR43316	HYDROLASE, HALOACID DELAHOGENASE-RELATED
+G3DSA:3.90.25.70:FF:000001	Fatty acid synthase subunit alpha
+PTHR43242	NAD(P)-BINDING ROSSMANN-FOLD SUPERFAMILY PROTEIN
+PTHR43574	EPIMERASE-RELATED
+PTHR32494	ALLANTOATE DEIMINASE-RELATED
+PIRSF001235	Amidase_hyd_carb
+G3DSA:3.30.390.30:FF:000015	Nitrite reductase large subunit
+G3DSA:3.30.413.10:FF:000017	Nitrite reductase large subunit
+cd19546	X-Domain_NRPS
+SFLDG01150	Main.1: Beta-like
+G3DSA:3.40.50.620:FF:000017	7-cyano-7-deazaguanine synthase
+PTHR43265	ESTERASE ESTD
+TIGR02201	putative lipopolysaccharide heptosyltransferase III
+G3DSA:3.40.50.2000:FF:000141	Lipopolysaccharide core heptosyltransferase RfaQ
+G3DSA:3.40.50.2000:FF:000191	Lipopolysaccharide core heptosyltransferase RfaQ
+G3DSA:3.40.50.720:FF:000347	UDP-N-acetylglucosamine 4-epimerase
+G3DSA:3.20.20.100:FF:000002	2,5-diketo-D-gluconic acid reductase A
+cd05360	SDR_c3
+PF21320	Rv2258c-like winged HTH domain
+PS51678	SAM-dependent methyltransferase PRMT-type domain profile.
+G3DSA:3.50.50.60:FF:000518	Steroid monooxygenase, putative
+G3DSA:3.40.47.10:FF:000040	Type III polyketide synthase
+G3DSA:2.30.38.10:FF:000002	Enterobactin synthase component F
+cd19538	LCL_NRPS
+PF12593	Microcystin synthetase C terminal
+TIGR02104	pullulanase, type I
+cd02860	E_set_Pullulanase
+PF17999	Pullulanase N1-terminal domain
+PF21653	Pullulanase, all-beta domain
+NF038150	class IV lanthionine synthetase LanL
+PTHR11559	CARBOXYLESTERASE
+NF038000	mutacin-like lanthipeptide
+cd02146	NfsA-like
+PTHR43425	OXYGEN-INSENSITIVE NADPH NITROREDUCTASE
+PTHR42877	L-ORNITHINE N(5)-MONOOXYGENASE-RELATED
+PTHR43795	BIFUNCTIONAL ASPARTATE AMINOTRANSFERASE AND GLUTAMATE/ASPARTATE-PREPHENATE AMINOTRANSFERASE-RELATED
+MF_02121	Aspartate-semialdehyde dehydrogenase [asd].
+PS01103	Aspartate-semialdehyde dehydrogenase signature.
+TIGR01296	aspartate-semialdehyde dehydrogenase
+PIRSF000148	ASA_dh
+PTHR46278	DEHYDROGENASE, PUTATIVE-RELATED
+PF02774	Semialdehyde dehydrogenase, dimerisation domain
+cd05281	TDH
+MF_00627	L-threonine 3-dehydrogenase [tdh].
+TIGR00692	L-threonine 3-dehydrogenase
+G3DSA:3.20.20.100:FF:000015	Oxidoreductase, aldo/keto reductase family
+PS00063	Aldo/keto reductase family putative active site signature.
+PR01575	Formyltetrahydrofolate deformylase signature
+PTHR42706	FORMYLTETRAHYDROFOLATE DEFORMYLASE
+G3DSA:3.40.50.150:FF:000405	Carminomycin 4-O-methyltransferase DnrK
+PTHR36510	GLUTAMATE--CYSTEINE LIGASE 2-RELATED
+MF_01609	Glutamate--cysteine ligase [gshA].
+PF04107	Glutamate-cysteine ligase family 2(GCS2)
+G3DSA:3.50.50.60:FF:000115	Salicylate hydroxylase, putative
+PTHR42832	AMINO ACID AMINOTRANSFERASE
+PIRSF001112	Epoxide_hydro
+PTHR21661	EPOXIDE HYDROLASE 1-RELATED
+PF06441	Epoxide hydrolase N terminus
+G3DSA:3.40.50.1100:FF:000016	Cysteine synthase A
+G3DSA:3.40.640.10:FF:000029	4-aminobutyrate aminotransferase, mitochondrial
+PTHR43206	AMINOTRANSFERASE
+TIGR00699	4-aminobutyrate--2-oxoglutarate transaminase
+PTHR43180	3-OXOACYL-(ACYL-CARRIER-PROTEIN) REDUCTASE (AFU_ORTHOLOGUE AFUA_6G11210)
+PF00590	Tetrapyrrole (Corrin/Porphyrin) Methylases
+SSF53790	Tetrapyrrole methylase
+MF_00572	2-isopropylmalate synthase [leuA].
+PTHR42986	BENZALDEHYDE DEHYDROGENASE YFMT
+PTHR24289	STEROID 17-ALPHA-HYDROXYLASE/17,20 LYASE
+G3DSA:1.10.630.10:FF:000238	Cytochrome P450 2A6
+PTHR46310	AMIDASE 1
+PS50873	Plant heme peroxidase family profile.
+TIGR04158	3-methyl-2-indolic acid synthase
+SFLDF00419	3-methyl-2-indolic acid synthase (NosL)
+PF22045	Chloramphenicol halogenase CmlS C-terminal domain
+NF033113	chloramphenicol-biosynthetic FADH2-dependent halogenase CmlS
+G3DSA:3.40.228.10	Dimethylsulfoxide Reductase, domain 2
+cd19536	DCL_NRPS-like
+PS01074	Terpene synthases signature.
+TIGR01507	squalene--hopene cyclase
+TIGR01482	sucrose-phosphate phosphatase subfamily
+MF_01815	Beta-ketoacyl-[acyl-carrier-protein] synthase III [fabH].
+PTHR43321	GLUTAMATE DECARBOXYLASE
+TIGR01788	glutamate decarboxylase
+PTHR23026	NADPH NITROREDUCTASE
+PF06500	Esterase FrsA-like
+MF_01984	Flavin prenyltransferase UbiX [ubiX].
+MF_01986	Probable UbiX-like flavin prenyltransferase.
+G3DSA:3.40.50.1950:FF:000001	Flavin prenyltransferase UbiX
+NF041206	non-oxidative hydroxyarylic acid decarboxylases subunit B
+TIGR00707	acetylornithine/succinylornithine family transaminase
+MF_01107	Acetylornithine/succinyldiaminopimelate aminotransferase [argD].
+PTHR43963	CARBONYL REDUCTASE 1-RELATED
+PIRSF001221	Amidase_fungi
+PTHR46072	AMIDASE-RELATED-RELATED
+G3DSA:3.40.50.150:FF:000818	8-demethylnovobiocic acid C(8)-methyltransferase
+cd04842	Peptidases_S8_Kp43_protease
+G3DSA:1.10.630.10:FF:000184	Cytochrome P450 family protein, expressed
+G3DSA:3.30.70.20:FF:000032	Formate dehydrogenase, alpha subunit
+PF10588	NADH-ubiquinone oxidoreductase-G iron-sulfur binding region
+TIGR01591	formate dehydrogenase subunit alpha
+G3DSA:3.40.228.10:FF:000002	Formate dehydrogenase subunit alpha
+G3DSA:3.10.20.740:FF:000003	Formate dehydrogenase subunit alpha
+G3DSA:2.40.40.20:FF:000005	Periplasmic nitrate reductase
+G3DSA:2.20.25.90:FF:000001	Formate dehydrogenase subunit alpha
+G3DSA:3.30.70.3290:FF:000001	Probable polyketide synthase Pks8
+PTHR43189	ZINC-TYPE ALCOHOL DEHYDROGENASE-LIKE PROTEIN C1198.01-RELATED
+G3DSA:1.10.405.20:FF:000001	Amine oxidase
+G3DSA:3.50.30.10:FF:000007	Phosphoenolpyruvate synthase
+PF08392	FAE1/Type III polyketide synthase-like protein
+G3DSA:3.40.50.620:FF:000012	Phosphopantetheine adenylyltransferase
+G3DSA:3.20.20.10:FF:000050	L-glutamyl-[BtrI acyl-carrier protein] decarboxylase
+cd06839	PLPDE_III_Btrk_like
+PTHR31147	ACYL TRANSFERASE 4
+TIGR03812	tyrosine decarboxylase MfnA
+PR00682	Isopenicillin N synthase signature
+TIGR01976	cysteine desulfurase-like protein
+G3DSA:3.90.550.10:FF:000008	UTP--glucose-1-phosphate uridylyltransferase
+PTHR30061	MALTOSE-BINDING PERIPLASMIC PROTEIN
+NF041820	daptide-type RiPP biosynthesis methyltransferase
+cd08018	M20_Acy1_amhX-like
+G3DSA:3.30.70.360:FF:000036	Amidohydrolase amhX
+G3DSA:3.40.50.720:FF:000191	Methylglyoxal reductase (NADPH-dependent)
+G3DSA:3.50.50.60:FF:000184	Phytoene dehydrogenase
+TIGR03467	hydroxysqualene dehydroxylase HpnE
+MF_01120	[LysW]-lysine/[LysW]-ornithine hydrolase [lysK].
+TIGR01902	N-acetyl-ornithine/N-acetyl-lysine deacetylase
+PTHR46720	HYDROXYLASE, PUTATIVE (AFU_ORTHOLOGUE AFUA_3G01460)-RELATED
+G3DSA:3.50.50.60:FF:000153	Salicylate hydroxylase, putative
+PF00890	FAD binding domain
+PTHR47953	OS08G0105600 PROTEIN
+cd08944	SDR_c12
+cd08234	threonine_DH_like
+NF035927	ScyA-related TPP-binding enzyme
+TIGR00254	diguanylate cyclase (GGDEF) domain
+G3DSA:3.30.70.270:FF:000001	Diguanylate cyclase domain protein
+PF00990	Diguanylate cyclase, GGDEF domain
+PF21068	MvdD pre-ATP grasp domain
+PF03992	Antibiotic biosynthesis monooxygenase
+NF040660	cyclopropane mycolic acid synthase family methyltransferase
+G3DSA:3.40.50.150:FF:000115	Cyclopropane mycolic acid synthase 1
+cd08276	MDR7
+G3DSA:3.40.50.1820:FF:000205	Non-haem bromoperoxidase BPO-A2
+PTHR48077	TRYPTOPHAN SYNTHASE-RELATED
+SFLDF00402	carbapenem intermediate methyltransferase (ThnP-like)
+G3DSA:3.30.70.250:FF:000010	Sterigmatocystin biosynthesis polyketide synthase
+G3DSA:3.40.366.10:FF:000023	Sterigmatocystin biosynthesis polyketide synthase
+cd05908	A_NRPS_MycA_like
+NF041943	geranyl diphosphate 2-C-methyltransferase
+G3DSA:3.40.50.150:FF:000183	Geranyl diphosphate 2-C-methyltransferase
+PTHR43859	ACYL-ACTIVATING ENZYME
+PF21887	RhiE branching domain
+TIGR03898	mersacidin/lichenicidin family type 2 lantibiotic leader domain
+G3DSA:1.10.630.10:FF:000008	Cytochrome P450 71D8
+G3DSA:2.40.110.10:FF:000001	Acyl-CoA dehydrogenase, mitochondrial
+PF04299	Putative FMN-binding domain
+PTHR43550	3-KETODIHYDROSPHINGOSINE REDUCTASE
+G3DSA:3.40.50.150:FF:000675	Aklanonic acid methyltransferase DnrC
+PF14867	Lantibiotic alpha
+NF045685	geranylgeranyl diphosphate synthase CrtE
+NF045485	farnesyl diphosphate synthase
+G3DSA:1.10.630.10:FF:000090	Cytochrome P450 monooxygenase
+TIGR03464	squalene synthase HpnC
+G3DSA:1.10.600.10:FF:000046	Squalene synthase HpnC
+TIGR02352	glycine oxidase ThiO
+PTHR11918	RADICAL SAM PROTEINS
+PF18603	L-amino acid ligase C-terminal domain 2
+NF045652	L-prolyl-[peptidyl-carrier protein] dehydrogenase
+G3DSA:3.40.50.720:FF:000228	Putative oxidoreductase yhhX
+G3DSA:3.40.50.2000:FF:000164	Lipopolysaccharide heptosyltransferase I
+G3DSA:3.40.50.1220:FF:000008	Acetolactate synthase
+G3DSA:3.40.50.970:FF:000016	Acetolactate synthase
+G3DSA:3.40.50.970:FF:000007	Acetolactate synthase
+TIGR00118	biosynthetic-type acetolactate synthase large subunit
+TIGR04180	NAD-dependent 4,6-dehydratase LegB
+cd07152	ALDH_BenzADH
+G3DSA:3.40.309.10:FF:000009	Aldehyde dehydrogenase A
+TIGR02032	geranylgeranyl reductase family protein
+SFLDF00543	alternative heme biosynthesis C (AhbC-like)
+SFLDG01384	thioether bond formation requiring two auxiliary iron-sulfur clusters
+G3DSA:3.20.20.70:FF:000188	Mycofactocin radical SAM maturase MftC
+TIGR04054	putative heme d1 biosynthesis radical SAM protein NirJ1
+TIGR01679	FAD-linked oxidoreductase
+cd08261	Zn_ADH7
+cd11080	CYP134A1
+TIGR04538	cytochrome P450, cyclodipeptide synthase-associated
+G3DSA:3.40.50.720:FF:000097	SDR family oxidoreductase
+G3DSA:3.40.109.10:FF:000008	Putative NAD(P)H nitroreductase
+TIGR04220	cyanobactin biosynthesis system PatB/AcyB/McaB family protein
+PF13522	Glutamine amidotransferase domain
+cd19539	SgcC5_NRPS-like
+G3DSA:1.10.630.10:FF:000376	Cytochrome P450 NovI
+PR00181	Maltose binding protein signature
+PTHR42804	ALDEHYDE DEHYDROGENASE
+G3DSA:3.40.50.720:FF:000037	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+G3DSA:3.60.120.10:FF:000007	Salicylate synthase Irp9
+G3DSA:1.10.630.10:FF:000050	Cytochrome P450 monooxygenase
+PTHR47947	CYTOCHROME P450 82C3-RELATED
+NF041218	bagremycin/ferroverdin biosynthesis UbiX family decarboxylase BagM/FevK
+G3DSA:3.30.559.30:FF:000005	Nonribosomal peptide synthase Pes1
+PF01209	ubiE/COQ5 methyltransferase family
+cd08255	2-desacetyl-2-hydroxyethyl_bacteriochlorophyll...
+PTHR43350	NAD-DEPENDENT ALCOHOL DEHYDROGENASE
+G3DSA:1.10.540.10:FF:000026	Acyl-CoA dehydrogenase medium chain
+G3DSA:3.40.640.10:FF:000014	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase, probable
+G3DSA:3.40.50.150:FF:000650	Polyketide synthase RzxC
+G3DSA:3.40.50.720:FF:000923	3-alpha-hydroxysteroid dehydrogenase, putative
+TIGR03621	TIGR03621 family F420-dependent LLM class oxidoreductase
+cd07103	ALDH_F5_SSADH_GabD
+PTHR43110	THIOL PEROXIDASE
+PF01070	FMN-dependent dehydrogenase
+PS51349	FMN-dependent alpha-hydroxy acid dehydrogenase domain profile.
+SFLDF00545	cyclopropanase
+SFLDG01065	anaerobic coproporphyrinogen-III oxidase like
+G3DSA:1.10.630.10:FF:000026	Cytochrome P450 82C4
+PS00441	Chalcone and stilbene synthases active site.
+TIGR04196	sublancin family glycopeptide
+PF19151	Sublancin
+PF13419	Haloacid dehalogenase-like hydrolase
+G3DSA:3.40.50.10090:FF:000001	Bifunctional uroporphyrinogen-III C-methyltransferase/uroporphyrinogen-III synthase
+PS00839	Uroporphyrin-III C-methyltransferase signature 1.
+TIGR03022	undecaprenyl-phosphate galactose phosphotransferase WbaP
+TIGR04098	LnmK-like bifunctional acyltransferase/decarboxylase domain
+NF043003	clavaminate synthase Cs1
+PTHR39322	ACYL-HOMOSERINE-LACTONE SYNTHASE
+cd19074	Aldo_ket_red_shaker-like
+cd12082	MATE_like
+TIGR04462	enduracididine biosynthesis enzyme MppP
+TIGR01831	3-ketoacyl-ACP reductase FabG2
+G3DSA:3.40.30.10:FF:000101	2-cys peroxiredoxin
+G3DSA:3.40.47.10:FF:000004	3-oxoacyl-[acyl-carrier-protein] synthase 3
+G3DSA:1.10.630.10:FF:000158	Cytochrome P450, putative (Eurofung)
+TIGR01505	2-hydroxy-3-oxopropionate reductase
+TIGR04160	methanobactin biosynthesis protein MbnC
+TIGR04061	putative natural product biosynthesis protein
+TIGR02407	diaminobutyrate--2-oxoglutarate transaminase
+cd07725	TTHA1429-like_MBL-fold
+G3DSA:3.60.130.10:FF:000008	Alpha-ketoglutarate-dependent taurine dioxygenase
+G3DSA:3.40.50.720:FF:000003	S-(hydroxymethyl)glutathione dehydrogenase
+PTHR43880	ALCOHOL DEHYDROGENASE
+cd08300	alcohol_DH_class_III
+G3DSA:3.90.180.10:FF:000001	S-(hydroxymethyl)glutathione dehydrogenase
+PTHR33570	4-CARBOXYMUCONOLACTONE DECARBOXYLASE FAMILY PROTEIN
+G3DSA:3.60.20.10:FF:000155	Asparagine synthetase (Eurofung)
+MF_01376	2-aminoethylphosphonate--pyruvate transaminase [phnW].
+TIGR03301	2-aminoethylphosphonate aminotransferase
+PTHR20863	ACYL CARRIER PROTEIN
+PTHR40470	PHYTANOYL-COA DIOXYGENASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_2G15850)
+G3DSA:1.10.630.10:FF:000055	Cytochrome P450 71A26
+G3DSA:2.60.120.330:FF:000104	Validamycin A dioxygenase
+G3DSA:2.60.120.620:FF:000016	Ectoine hydroxylase
+SFLDG01062	methyltransferase (Class A)
+SFLDF00275	adenosine C2 methyltransferase (RlmN-like)
+G3DSA:3.40.50.720:FF:000115	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PF01262	Alanine dehydrogenase/PNT, C-terminal domain
+TIGR02853	dipicolinic acid synthetase subunit A
+PF16924	Dipicolinate synthase subunit A N-terminal domain
+PF10100	Staphylopine dehydrogenase
+PF03059	Nicotianamine synthase protein
+PTHR32266	NICOTIANAMINE SYNTHASE 3
+cd02062	Nitro_FMN_reductase
+TIGR03470	adenosyl-hopene transferase HpnH
+SFLDF00397	adenosyl-hopene transferase
+G3DSA:3.90.700.10:FF:000007	NADH-dependent fumarate reductase
+PTHR39179	SPORE COAT PROTEIN I
+G3DSA:3.40.50.720:FF:000934	Short chain dehydrogenase
+cd06843	PLPDE_III_PvsE_like
+PIRSF010386	RocB
+cd05654	M20_ArgE_RocB
+cd17653	A_NRPS_GliP_like
+TIGR01006	polysaccharide export protein, MPA1 family
+PF14907	Uncharacterised nucleotidyltransferase
+PIRSF029775	Isochor_pyr_lyas
+TIGR01803	chorismate mutase family protein
+G3DSA:3.40.47.10:FF:000114	Uncharacterized protein
+G3DSA:3.40.47.10:FF:000115	Uncharacterized protein
+TIGR00761	acetylglutamate kinase
+PF00696	Amino acid kinase family
+PTHR43319	BETA-LACTAMASE-RELATED
+PTHR31642	TRICHOTHECENE 3-O-ACETYLTRANSFERASE
+G3DSA:3.30.70.420:FF:000001	3-hydroxy-3-methylglutaryl coenzyme A reductase
+G3DSA:3.90.770.10:FF:000001	3-hydroxy-3-methylglutaryl coenzyme A reductase
+PTHR10572	3-HYDROXY-3-METHYLGLUTARYL-COENZYME A REDUCTASE
+PF13323	N-terminal domain with HPIH motif
+TIGR04517	radical SAM family RiPP maturation amino acid epimerase
+cd03477	Rieske_YhfW_C
+G3DSA:2.102.10.10:FF:000014	Oxidoreductase, FAD dependent
+TIGR01963	3-hydroxybutyrate dehydrogenase
+G3DSA:3.40.50.720:FF:000981	3-hydroxybutyrate dehydrogenase
+G3DSA:1.10.630.10:FF:000097	Cytochrome P-450 19
+PTHR42980	2-OXOISOVALERATE DEHYDROGENASE SUBUNIT BETA-RELATED
+cd04735	OYE_like_4_FMN
+SSF160104	Acetoacetate decarboxylase-like
+PF06314	Acetoacetate decarboxylase (ADC)
+G3DSA:3.40.50.720:FF:000905	Oxidoreductase, short chain dehydrogenase/reductase family, putative
+G3DSA:2.40.37.10:FF:000003	Diaminopimelate decarboxylase
+cd13124	MATE_SpoVB_like
+PIRSF038958	PG_synth_SpoVB
+G3DSA:1.10.540.10:FF:000008	Acyl-CoA dehydrogenase
+G3DSA:2.40.110.10:FF:000012	Acyl-CoA dehydrogenase
+PTHR43091	3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE
+PTHR42678	AMIDASE
+PF22041	Glutathione S-transferase, C-terminal domain
+PF13417	Glutathione S-transferase, N-terminal domain
+G3DSA:3.40.50.720:FF:000374	3-oxoacyl-(Acyl-carrier-protein) reductase
+PF16738	Starch-binding module 26
+PF07812	TfuA-like protein
+G3DSA:3.40.50.1970:FF:000012	3-dehydroquinate synthase
+G3DSA:1.20.1090.10:FF:000006	3-dehydroquinate synthase
+G3DSA:3.40.50.150:FF:000461	Sarcosine/dimethylglycine N-methyltransferase
+TIGR02360	4-hydroxybenzoate 3-monooxygenase
+PS00067	3-hydroxyacyl-CoA dehydrogenase signature.
+cd05256	UDP_AE_SDR_e
+TIGR03559	LLM class F420-dependent oxidoreductase
+cd16280	metallo-hydrolase-like_MBL-fold
+TIGR01368	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+PF22488	Class 2 C-terminal docking domain
+G3DSA:3.40.50.1100:FF:000004	Tryptophan synthase beta chain
+MF_00133	Tryptophan synthase beta chain [trpB].
+TIGR00263	tryptophan synthase subunit beta
+PS00168	Tryptophan synthase beta chain pyridoxal-phosphate attachment site.
+G3DSA:3.40.50.1100:FF:000001	Tryptophan synthase beta chain
+PF09277	Erythronolide synthase, docking
+PF12710	haloacid dehalogenase-like hydrolase
+PF18105	PGM1 C-terminal domain
+G3DSA:3.40.109.30	putative nitroreductase (tm1586), domain 2
+TIGR04055	putative heme d1 biosynthesis radical SAM protein NirJ2
+SSF160272	Shew3726-like
+TIGR02155	phenylacetate--CoA ligase PaaK
+PTHR43188	ACYL-COENZYME A OXIDASE
+G3DSA:3.30.559.10:FF:000076	Transferase family protein
+G3DSA:3.30.559.10:FF:000114	Transferase family protein
+MF_00609	Histidine decarboxylase [hdc].
+TIGR02873	probable sporulation protein, polysaccharide deacetylase family
+PIRSF037479	Pg_GlcNAc_deacet
+G3DSA:3.50.50.60:FF:000159	Dimethylaniline monooxygenase [N-oxide-forming]
+PS51098	PTS_EIIB type-1 domain profile.
+PS51103	PTS_EIIC type-1 domain profile.
+cd00212	PTS_IIB_glc
+PS01035	PTS EIIB domains cysteine phosphorylation site signature.
+PF02378	Phosphotransferase system, EIIC
+PF00367	phosphotransferase system, EIIB
+G3DSA:1.20.1640.10:FF:000018	Transmembrane transport protein MmpL10
+G3DSA:1.20.1640.10:FF:000020	Transmembrane transport protein MmpL10
+TIGR00553	aminodeoxychorismate synthase component I
+NF033752	cypemycin family RiPP
+PF08130	Type A lantibiotic family
+TIGR02823	acryloyl-CoA reductase
+G3DSA:1.10.150.240:FF:000008	Pyrophosphatase PpaX
+MF_01250	Pyrophosphatase PpaX [ppaX].
+NF041217	bagremycin/ferroverdin synthetase BagE/FevW
+G3DSA:3.40.50.720:FF:000426	Aldehyde reductase 2
+G3DSA:1.10.8.400	Enoyl acyl carrier protein reductase
+G3DSA:1.10.8.400:FF:000001	Enoyl-[acyl-carrier-protein] reductase [NADH]
+G3DSA:3.40.640.10:FF:000176	Nucleotide sugar transaminase
+NF045603	4-aminobenzoate N-oxygenase
+TIGR04478	radical SAM/CxCxxxxC motif protein YfkAB
+PTHR42836	7-CARBOXY-7-DEAZAGUANINE SYNTHASE
+SFLDG01097	Uncharacterised Radical SAM Subgroup 10
+PTHR47943	CYTOCHROME P450 93A3-LIKE
+G3DSA:1.10.630.10:FF:000126	Predicted protein
+G3DSA:1.10.630.10:FF:000023	Cytochrome P450 family protein
+cd20653	CYP81
+TIGR00888	glutamine-hydrolyzing GMP synthase, N-terminal domain
+TIGR00884	glutamine-hydrolyzing GMP synthase, C-terminal domain
+G3DSA:3.30.300.30:FF:000007	4-coumarate--CoA ligase 2
+PTHR10742	FLAVIN MONOAMINE OXIDASE
+G3DSA:3.60.120.10:FF:000001	Isochorismate synthase EntC
+TIGR04492	iminophenyl-pyruvate dimer synthase VioB
+cd03888	M20_PepV
+TIGR01887	Sapep family Mn(2+)-dependent dipeptidase
+G3DSA:3.40.50.720:FF:000311	Ornithine cyclodeaminase
+G3DSA:3.40.309.10:FF:000025	Aldehyde dehydrogenase
+PTHR43570	ALDEHYDE DEHYDROGENASE
+cd07135	ALDH_F14-YMR110C
+PIRSF036492	ALDH
+G3DSA:3.40.605.10:FF:000004	Aldehyde dehydrogenase
+cd05191	NAD_bind_amino_acid_DH
+TIGR03557	TIGR03557 family F420-dependent LLM class oxidoreductase
+G3DSA:3.60.15.10:FF:000088	Quinolone signal response protein
+PF13454	FAD-NAD(P)-binding
+PTHR11773	GLYCINE DEHYDROGENASE, DECARBOXYLATING
+MF_00713	Probable glycine dehydrogenase (decarboxylating) subunit 2 [gcvPB].
+PF21478	Glycine dehydrogenase, C-terminal domain
+G3DSA:3.40.640.10:FF:000034	Probable glycine dehydrogenase (decarboxylating) subunit 2
+cd02009	TPP_SHCHC_synthase
+cd07037	TPP_PYR_MenD
+TIGR00173	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+MF_01659	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [menD].
+cd17635	FADD10
+G3DSA:3.40.50.12780:FF:000081	Possible fatty-acid-CoA ligase fadD10
+G3DSA:1.10.600.10:FF:000044	(2Z,6E)-hedycaryol synthase
+NF045811	pentalenene synthase
+G3DSA:3.30.559.10:FF:000014	Tryptamine hydroxycinnamoyl transferase
+G3DSA:3.30.559.10:FF:000008	Tryptamine hydroxycinnamoyl transferase
+cd07085	ALDH_F6_MMSDH
+MF_02247	Carboxylic acid reductase [car].
+NF041592	carboxylic acid reductase
+G3DSA:3.40.50.1820:FF:000439	Non-ribosomal peptide synthetase OfaC
+G3DSA:3.30.559.10:FF:000082	Probable non-ribosomal peptide synthetase
+PF14399	Butirosin biosynthesis protein H, N-terminal
+G3DSA:3.90.1150.10:FF:000018	Histidine decarboxylase
+TIGR02103	pullulanase-type alpha-1,6-glucosidase
+PF17967	Pullulanase N2 domain
+TIGR03946	arginine beta-hydroxylase, Fe(II)/alpha-ketoglutarate-dependent
+PTHR37316	TEICHOIC ACID GLYCEROL-PHOSPHATE PRIMASE
+G3DSA:1.10.510.40:FF:000007	Siderophore biosynthesis protein
+G3DSA:3.30.310.280:FF:000002	Siderophore biosynthesis protein
+G3DSA:1.10.10.520:FF:000003	Ubiquitin-activating enzyme E1-like
+TIGR01217	acetoacetate--CoA ligase
+PTHR42921	ACETOACETYL-COA SYNTHETASE
+TIGR03571	TIGR03571 family LLM class oxidoreductase
+cd08267	MDR1
+cd05282	ETR_like
+PIRSF010372	PaiB
+PS01184	ubiE/COQ5 methyltransferase family signature 2.
+cd02525	Succinoglycan_BP_ExoA
+G3DSA:1.10.630.10:FF:000059	Cytochrome P450 monooxygenase
+G3DSA:3.40.50.720:FF:001577	Short-chain dehydrogenase/reductase family member NovK
+TIGR04008	colanic acid biosynthesis acetyltransferase WcaF
+NF037999	lantibiotic mutacin
+PF05655	Pseudomonas avirulence D protein (AvrD)
+G3DSA:1.10.630.10:FF:000123	Cytochrome P450, family 702, subfamily A, polypeptide 2
+cd11043	CYP90-like
+G3DSA:1.10.630.10:FF:000037	Cytochrome P450 9
+cd20658	CYP79
+PIRSF037852	Subtilisin_rel_SAV5721
+PF06925	Monogalactosyldiacylglycerol (MGDG) synthase
+PTHR43025	MONOGALACTOSYLDIACYLGLYCEROL SYNTHASE
+MF_01280	Processive diacylglycerol beta-glucosyltransferase [ugtP].
+cd07151	ALDH_HBenzADH
+TIGR03202	xanthine dehydrogenase accessory protein PucB
+G3DSA:3.10.290.10:FF:000016	Pseudouridine synthase
+PTHR46028	KYNURENINE 3-MONOOXYGENASE
+cd08954	KR_1_FAS_SDR_x
+MF_01023	Histidinol-phosphate aminotransferase [hisC].
+G3DSA:3.50.50.60:FF:000341	Baeyer-Villiger monooxygenase
+TIGR01885	ornithine--oxo-acid transaminase
+G3DSA:3.40.640.10:FF:000011	Ornithine aminotransferase
+G3DSA:1.20.1090.10:FF:000009	NADH-dependent butanol dehydrogenase
+PS00060	Iron-containing alcohol dehydrogenases signature 2.
+PTHR43633	ALCOHOL DEHYDROGENASE YQHD
+PTHR46656	PUTATIVE-RELATED
+G3DSA:3.40.30.10:FF:000007	Thioredoxin-dependent thiol peroxidase
+G3DSA:3.40.50.720:FF:000568	Polysaccharide biosynthesis protein
+G3DSA:2.40.30.10:FF:000198	Bifunctional cytochrome P450/NADPH--P450 reductase
+PF21926	N-acyl amino acid synthase FeeM
+PTHR22603	CHOLINE/ETHANOALAMINE KINASE
+G3DSA:3.90.226.10:FF:000027	Probable 3-hydroxyisobutyryl-CoA hydrolase 2
+PTHR43176	3-HYDROXYISOBUTYRYL-COA HYDROLASE-RELATED
+PF16113	Enoyl-CoA hydratase/isomerase
+TIGR02884	delta-lactam-biosynthetic de-N-acetylase
+PF21475	PaaA-like, N-terminal domain
+PF13410	Glutathione S-transferase, C-terminal domain
+cd17648	A_NRPS_ACVS-like
+cd11038	CYP_AurH-like
+MF_00406	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ [fabZ].
+TIGR01750	3-hydroxyacyl-ACP dehydratase FabZ
+TIGR04103	nif11-class peptide radical SAM maturase 3
+MF_01229	Alkanesulfonate monooxygenase [ssuD].
+G3DSA:1.20.5.320:FF:000004	6-phosphogluconate dehydrogenase, decarboxylating
+TIGR02278	phenylacetic acid degradation bifunctional protein PaaZ
+PTHR43111	ALDEHYDE DEHYDROGENASE B-RELATED
+G3DSA:1.10.630.10:FF:000011	Cytochrome P450 83B1
+PS00186	Isopenicillin N synthase signature 2.
+G3DSA:1.10.630.10:FF:000116	Oxidoreductase A;oxidoreductase/cytochrome P450 monooxygenase
+NF045574	StsB family radical SAM/SPASM domain sactipeptide maturase
+PS00185	Isopenicillin N synthase signature 1.
+PTHR10209	OXIDOREDUCTASE, 2OG-FE II  OXYGENASE FAMILY PROTEIN
+TIGR00977	citramalate synthase
+PR01952	Nisin biosynthesis protein NisC signature
+PS00336	Beta-lactamase class-C active site.
+PF05228	CHASE4 domain
+cd05359	ChcA_like_SDR_c
+G3DSA:3.40.50.720:FF:000491	Enoyl-[acyl-carrier-protein] reductase FabL
+PF13480	Acetyltransferase (GNAT) domain
+G3DSA:3.40.30.10:FF:000471	Glutathione S-transferase 1
+G3DSA:3.30.470.20:FF:000008	D-alanine--D-alanine ligase
+PF07976	Phenol hydroxylase, C-terminal dimerisation domain
+cd02979	PHOX_C
+MF_01669	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase [iolD].
+cd02003	TPP_IolD
+TIGR04377	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing)
+cd19547	beta-lac_NRPS
+SFLDF00568	paromamine deoxygenase
+G3DSA:1.10.510.40:FF:000002	IucA/IucC family siderophore biosynthesis protein
+G3DSA:3.40.30.10:FF:000267	Peroxidoxin bcpB
+PIRSF016753	P_lipid/glycerol_ac_tran
+TIGR01836	class III poly(R)-hydroxyalkanoic acid synthase subunit PhaC
+G3DSA:3.40.47.10:FF:000106	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+G3DSA:3.40.50.1820:FF:000818	Plipastatin synthase subunit C
+G3DSA:3.40.47.10:FF:000025	Chalcone synthase 2
+PR00757	Flavin-containing amine oxidase signature
+G3DSA:3.40.640.10:FF:000090	Pyridoxal phosphate-dependent aminotransferase
+TIGR04181	LegC family aminotransferase
+G3DSA:3.90.180.10:FF:000011	Crotonyl-CoA carboxylase/reductase
+G3DSA:3.40.50.970:FF:000130	N(2)-(2-carboxyethyl)arginine synthase
+PF13508	Acetyltransferase (GNAT) domain
+PTHR30085	AMINO ACID ABC TRANSPORTER PERMEASE
+G3DSA:1.10.630.10:FF:000019	Cytochrome P450 family protein
+G3DSA:3.40.50.150:FF:000680	Ubiquinone/menaquinone biosynthesis methyltransferase ubiE
+G3DSA:1.10.630.10:FF:000020	Cytochrome P450 family protein
+cd03895	M20_ArgE_DapE-like
+PTHR11444	ASPARTATEAMMONIA/ARGININOSUCCINATE/ADENYLOSUCCINATE LYASE
+G3DSA:3.40.50.720:FF:000085	Dihydroflavonol reductase
+cd05669	M20_Acy1_YxeP-like
+G3DSA:3.40.630.10:FF:000006	N-acetyldiaminopimelate deacetylase
+G3DSA:3.40.50.150:FF:001199	3-hydroxy-5-methyl-1-naphthoate 3-O-methyltransferase
+G3DSA:1.10.10.10:FF:000358	Acetylserotonin O-methyltransferase
+MF_00712	Probable glycine dehydrogenase (decarboxylating) subunit 1 [gcvPA].
+G3DSA:3.40.640.10:FF:000113	Probable glycine dehydrogenase (decarboxylating) subunit 1
+PTHR42806	GLYCINE CLEAVAGE SYSTEM P-PROTEIN
+G3DSA:3.60.70.12:FF:000001	Arginine biosynthesis bifunctional protein ArgJ, chloroplastic
+G3DSA:3.10.20.340:FF:000001	Arginine biosynthesis bifunctional protein ArgJ, chloroplastic
+PTHR30175	PHOSPHOTRANSFERASE SYSTEM TRANSPORT PROTEIN
+PF00358	phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1
+PS51093	PTS_EIIA type-1 domain profile.
+cd00210	PTS_IIA_glc
+G3DSA:3.30.1360.60:FF:000001	PTS system glucose-specific IIBC component PtsG
+PS00371	PTS EIIA domains phosphorylation site signature 1.
+G3DSA:2.70.70.10:FF:000001	PTS system glucose-specific IIA component
+TIGR03365	7-carboxy-7-deazaguanine synthase QueE
+MF_00917	7-carboxy-7-deazaguanine synthase [queE].
+SFLDG01605	Terpene Cyclase Like 1 N-term - Enzymatic
+G3DSA:3.40.30.10:FF:000156	Glutathione S-transferase 1
+PTHR43372	FATTY-ACID AMIDE HYDROLASE
+SFLDF00403	phosphonoacetaldehyde methylase (fom3-like)
+G3DSA:3.30.300.30:FF:000033	Nonribosomal siderophore peptide synthase SidC
+PF14497	Glutathione S-transferase, C-terminal domain
+G3DSA:3.90.870.20:FF:000001	Decarbamoylnovobiocin carbamoyltransferase
+TIGR02764	polysaccharide deacetylase family sporulation protein PdaB
+TIGR01923	o-succinylbenzoate--CoA ligase
+cd17630	OSB_MenE-like
+TIGR02418	acetolactate synthase AlsS
+G3DSA:3.40.50.1220:FF:000028	Acetolactate synthase, catabolic
+PTHR44013	ZINC-TYPE ALCOHOL DEHYDROGENASE-LIKE PROTEIN C16A3.02C
+MF_00082	Acetylglutamate kinase [argB].
+G3DSA:3.40.1160.10:FF:000004	Acetylglutamate kinase
+G3DSA:3.90.226.10:FF:000236	(3,5-dihydroxyphenyl)acetyl-CoA 1,2-dioxygenase
+G3DSA:1.20.58.1300:FF:000001	(3,5-dihydroxyphenyl)acetyl-CoA 1,2-dioxygenase
+TIGR03462	lycopene cyclase domain
+PF18916	Lycopene cyclase
+cd13966	PT_UbiA_4
+cd05234	UDP_G4E_2_SDR_e
+PF13279	Thioesterase-like superfamily
+G3DSA:3.40.50.720:FF:000446	Short chain dehydrogenase
+G3DSA:1.10.600.10:FF:000030	Geranylgeranyl pyrophosphate synthase
+cd02171	G3P_Cytidylyltransferase
+TIGR01518	glycerol-3-phosphate cytidylyltransferase
+G3DSA:3.90.470.20:FF:000005	Fatty acid synthase alpha subunit FasA
+G3DSA:1.20.1740.10:FF:000051	Amino acid permease
+NF041226	bagremycin/ferroverdin biosynthesis FAD-dependent oxygenase BagK/FevA1
+G3DSA:3.40.630.30:FF:000621	Long-chain N-acyl amino acid synthase
+G3DSA:3.40.50.170:FF:000008	Phosphoribosylglycinamide formyltransferase
+G3DSA:3.40.50.300:FF:002549	Tetracycline resistance protein, GTP-binding elongation family
+G3DSA:3.50.50.60:FF:000509	Steroid monooxygenase, putative
+G3DSA:3.50.50.60:FF:000573	Steroid monooxygenase, putative
+G3DSA:3.30.559.30:FF:000069	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+TIGR00858	8-amino-7-oxononanoate synthase
+PTHR42885	HISTIDINOL-PHOSPHATE AMINOTRANSFERASE-RELATED
+G3DSA:3.40.366.10:FF:000011	Polyketide synthetase PksP
+cd05357	PR_SDR_c
+PTHR21660	THIOESTERASE SUPERFAMILY MEMBER-RELATED
+PS00557	FMN-dependent alpha-hydroxy acid dehydrogenases active site.
+G3DSA:1.10.3270.10:FF:000001	3-hydroxy-3-methylglutaryl coenzyme A reductase
+NF045577	methanobactin biosynthesis FAD monooxygenase MbnF
+PF04075	F420H(2)-dependent quinone reductase
+TIGR00026	nitroreductase family deazaflavin-dependent oxidoreductase
+G3DSA:3.40.630.30:FF:000182	Putative acetyltransferase
+TIGR00970	2-isopropylmalate synthase
+PF04140	Isoprenylcysteine carboxyl methyltransferase (ICMT) family
+G3DSA:3.40.640.10:FF:000025	Histidine decarboxylase
+G3DSA:1.20.1340.10:FF:000001	Histidine decarboxylase
+cd05262	SDR_a7
+PF22026	Alpha-amylase C-terminal domain
+G3DSA:1.10.1240.100:FF:000001	Polyketide synthase/nonribosomal peptide synthetase hybrid RzxA
+G3DSA:3.50.50.60:FF:000504	Phytoene desaturase
+cd11051	CYP59-like
+G3DSA:1.10.630.10:FF:000088	Cytochrome P450 monooxygenase
+PS00743	Beta-lactamases class B signature 1.
+G3DSA:3.40.50.720:FF:001809	Narbonolide/10-deoxymethynolide synthase PikA1, modules 1 and 2
+PF13673	Acetyltransferase (GNAT) domain
+PTHR31630	PHYTANOYL-COA DIOXYGENASE-RELATED-RELATED
+G3DSA:3.20.20.30:FF:000008	Xenobiotic compound monooxygenase A subunit
+TIGR03181	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+G3DSA:3.30.300.30:FF:000114	Nonribosomal peptide synthetase, discrete adenylation domain
+G3DSA:3.40.50.170:FF:000007	Phosphoribosylglycinamide formyltransferase
+G3DSA:3.30.2070.10	Formate dehydrogenase/DMSO reductase,
+NF041705	YhhA family cyclophane-containing RiPP
+G3DSA:3.90.550.10:FF:000130	Family 2 glycosyl transferase
+G3DSA:3.50.50.60:FF:000053	Geranylgeranyl reductase family
+cd21136	amidinotransferase_AGAT-like
+PTHR10488	GLYCINE AMIDINOTRANSFERASE, MITOCHONDRIAL
+cd08945	PKR_SDR_c
+G3DSA:3.60.120.10:FF:000002	Isochorismate synthase MenF
+cd00845	MPP_UshA_N_like
+TIGR00539	radical SAM family heme chaperone HemW
+TIGR02402	malto-oligosyltrehalose trehalohydrolase
+cd02853	E_set_MTHase_like_N
+G3DSA:3.40.640.10:FF:000123	DegT/DnrJ/EryC1/StrS family aminotransferase
+MF_00742	Formyl-CoA:oxalate CoA-transferase [frc].
+TIGR03253	formyl-CoA transferase
+SFLDF00423	chondrochloren A methyltransferase (CndI-like)
+MF_00120	Glutamyl-tRNA(Gln) amidotransferase subunit A [gatA].
+G3DSA:3.40.50.720:FF:001418	Aminotransferase PigE
+G3DSA:3.40.50.720:FF:000594	Short-chain oxidoreductase
+cd06438	EpsO_like
+NF041707	cyclophane-forming radical SAM/SPASM peptide maturase YhhB
+SFLDF00322	tryptophan 2-C-methyltransferase
+TIGR04428	tryptophan 2-C-methyltransferase
+PF03279	Bacterial lipid A biosynthesis acyltransferase
+G3DSA:1.10.1200.10:FF:000009	Isochorismatase
+cd17645	A_NRPS_LgrA-like
+G3DSA:3.20.20.60:FF:000009	2-methylisocitrate lyase
+G3DSA:3.10.290.10:FF:000015	Pseudouridine synthase
+TIGR03539	actinobacterial family succinyldiaminopimelate transaminase
+G3DSA:3.40.920.10:FF:000002	2-oxoglutarate oxidoreductase, alpha subunit
+TIGR03710	2-oxoacid:acceptor oxidoreductase subunit alpha
+PTHR32154	PYRUVATE-FLAVODOXIN OXIDOREDUCTASE-RELATED
+PF01855	Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg
+G3DSA:3.40.50.970:FF:000022	2-oxoglutarate ferredoxin oxidoreductase alpha subunit
+G3DSA:1.50.10.20:FF:000011	Terpene cyclase/mutase family member
+G3DSA:2.60.40.10:FF:000552	Related to glucoamylase
+G3DSA:3.40.47.10:FF:000053	Alpha-pyrone synthesis polyketide synthase
+G3DSA:3.40.50.720:FF:000670	Probable peptide synthetase nrp
+G3DSA:3.40.50.12780:FF:000121	Acyl-CoA synthetase
+G3DSA:2.40.110.10:FF:000056	Putative acyl CoA oxidase
+PF22924	Acyl-CoA oxidase, C-alpha1 domain
+PTHR42691	ASPARTATE AMINOTRANSFERASE YHDR-RELATED
+NF045823	phthiotriol/phenolphthiotriol dimycocerosates methyltransferase
+NF045825	fatty-acid O-methyltransferase Mtf2
+NF041169	family 2 encapsulin nanocompartment cargo protein polyprenyl transferase
+cd04434	LanC_like
+G3DSA:3.40.50.980:FF:000023	Putative peptide synthase
+NF045785	olefin beta-lactone synthetase
+TIGR00514	acetyl-CoA carboxylase biotin carboxylase subunit
+G3DSA:3.30.1490.20:FF:000018	Biotin carboxylase
+TIGR03972	4-demethylwyosine synthase TYW1
+PF00755	Choline/Carnitine o-acyltransferase
+cd08943	R1PA_ADH_SDR_c
+TIGR02632	short chain dehydrogenase
+NF033601	staphylopine biosynthesis enzyme CntL
+G3DSA:1.10.10.1270	Sbi, C3 binding domain IV
+PF02163	Peptidase family M50
+PR01954	Epidermin biosynthesis protein EpiC signature
+TIGR04424	McbB family protein
+G3DSA:1.10.600.10:FF:000003	Farnesyl-diphosphate farnesyltransferase 1
+PTHR11626	FARNESYL-DIPHOSPHATE FARNESYLTRANSFERASE
+TIGR01559	squalene synthase
+PF08129	Alpha/beta enterocin family
+G3DSA:3.40.250.10:FF:000040	Zn-dependent hydroxyacylglutathione hydrolase
+NF041822	daptide-type RiPP biosynthesis dehydogenase
+G3DSA:3.40.605.10:FF:000026	Aldehyde dehydrogenase, putative
+PTHR43431	OXIDOREDUCTASE, SHORT CHAIN DEHYDROGENASE/REDUCTASE FAMILY (AFU_ORTHOLOGUE AFUA_5G14000)
+TIGR00530	1-acylglycerol-3-phosphate O-acyltransferase
+G3DSA:3.40.50.1820:FF:000112	Poly(R)-hydroxyalkanoic acid synthase, class III, PhaC subunit
+cd08935	mannonate_red_SDR_c
+G3DSA:3.40.50.720:FF:000240	SDR family oxidoreductase
+G3DSA:3.10.129.110:FF:000003	Probable polyketide synthase pks1
+PR01125	Flavin-containing monooxygenase (FMO) 5 signature
+PTHR42896	XYLULOSE-1,5-BISPHOSPHATE (XUBP) PHOSPHATASE
+G3DSA:3.40.50.12780:FF:000024	Nonribosomal siderophore peptide synthase SidC
+MF_00731	2-succinylbenzoate--CoA ligase [menE].
+cd05912	OSB_CoA_lg
+PF00887	Acyl CoA binding protein
+SSF47027	Acyl-CoA binding protein
+G3DSA:1.10.1040.10:FF:000026	UDP-glucose 6-dehydrogenase
+TIGR01475	UbiA-like polyprenyltransferase
+NF041584	menaquinone biosynthesis prenyltransferase MqnP, SCO4491 family
+G3DSA:3.30.160.270:FF:000002	2-isopropylmalate synthase
+G3DSA:3.20.20.70:FF:000045	2-isopropylmalate synthase
+cd08287	FDH_like_ADH3
+NF012164	subtilosin maturase AlbA
+cd21125	SPASM_AlbA-like
+G3DSA:2.60.120.330:FF:000006	2-oxoglutarate-Fe(II) type oxidoreductase hxnY
+MF_01670	Malonate-semialdehyde dehydrogenase [iolA].
+cd07134	ALDH_AlkH-like
+G3DSA:3.40.309.10:FF:000003	Aldehyde dehydrogenase
+PF08592	Anthrone oxygenase
+cd21129	SPASM_BtrN
+SFLDF00424	2-deoxy-scyllo-inosamine dehydrogenase (BtrN-like)
+cd08283	FDH_like_1
+G3DSA:3.40.50.720:FF:000168	Fatty acid synthase subunit alpha
+G3DSA:3.30.70.2490:FF:000001	Fatty acid synthase subunit alpha
+G3DSA:3.90.1150.10:FF:000040	Tyrosine aminotransferase
+cd00687	Terpene_cyclase_nonplant_C1
+PF17147	Pyruvate:ferredoxin oxidoreductase core domain II
+TIGR00751	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+G3DSA:1.20.120.1780:FF:000002	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+G3DSA:1.10.357.140:FF:000007	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+MF_01937	1,4-dihydroxy-2-naphthoate octaprenyltransferase [menA].
+TIGR04445	LynF/TruF/PatF family peptide O-prenyltransferase
+G3DSA:3.40.50.970:FF:000023	Pyruvate dehydrogenase E1 component subunit alpha
+PTHR42981	PYRUVATE DEHYDROGENASE [UBIQUINONE]
+cd02014	TPP_POX
+G3DSA:3.90.1150.10:FF:000073	Cystathionine gamma-synthase
+G3DSA:3.30.559.10:FF:000037	Nonribosomal peptide synthase Pes1
+G3DSA:3.30.559.10:FF:000031	Nonribosomal peptide synthase Pes1
+G3DSA:3.30.559.10:FF:000017	Nonribosomal peptide synthase Pes1
+G3DSA:1.10.1200.10:FF:000024	Nonribosomal peptide synthase Pes1
+G3DSA:1.10.1040.50:FF:000005	Probable 3-hydroxyacyl-CoA dehydrogenase
+G3DSA:3.90.226.10:FF:000047	Probable 3-hydroxyacyl-CoA dehydrogenase
+G3DSA:3.40.640.10:FF:000035	O-succinylhomoserine sulfhydrylase
+PF07110	EthD domain
+G3DSA:1.10.540.10:FF:000057	L-prolyl-[peptidyl carrier protein] dehydrogenase
+cd07099	ALDH_DDALDH
+NF033536	lasso peptide biosynthesis PqqD family chaperone
+cd05188	MDR
+G3DSA:3.40.50.1820:FF:000366	Phenyloxazoline synthase MbtB
+NF042917	L-propargylglycine--L-glutamate ligase BesA
+cd02786	MopB_CT_3
+cd07102	ALDH_EDX86601
+G3DSA:1.10.620.20:FF:000033	Putative N-oxidase
+G3DSA:3.40.50.150:FF:000597	O-methyltransferase
+G3DSA:1.10.10.10:FF:000944	O-methyltransferase
+G3DSA:3.40.50.150:FF:000887	Non-ribosomal peptide synthase
+G3DSA:3.40.50.980:FF:000010	Non-ribosomal peptide synthetase
+G3DSA:3.60.120.10:FF:000004	Aminodeoxychorismate synthase, component I
+PTHR46471	CHITIN DEACETYLASE
+G3DSA:3.50.50.100:FF:000004	Pyridine nucleotide-disulfide oxidoreductase
+TIGR04195	SunS family peptide S-glycosyltransferase
+TIGR03098	acyl-CoA ligase (AMP-forming), exosortase A system-associated
+G3DSA:3.30.420.40:FF:000469	Putative nodulation protein nolNO
+NF037940	mycobactin polyketide synthase MbtD
+G3DSA:3.40.50.720:FF:000791	Polyketide synthetase mbtD
+PF09924	Phosphatidylglycerol lysyltransferase, C-terminal
+G3DSA:3.50.50.60:FF:000138	Flavin-containing monooxygenase
+cd05326	secoisolariciresinol-DH_like_SDR_c
+G3DSA:2.40.40.20:FF:000034	Probable oxidoreductase YoaE
+G3DSA:3.40.50.1370	Aspartate/ornithine carbamoyltransferase
+PF02729	Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain
+PS00097	Aspartate and ornithine carbamoyltransferases signature.
+PR00100	Aspartate/ornithine carbamoyltransferase superfamily signature
+SSF53671	Aspartate/ornithine carbamoyltransferase
+PF00185	Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain
+PR00102	Ornithine carbamoyltransferase signature
+PTHR45753	ORNITHINE CARBAMOYLTRANSFERASE, MITOCHONDRIAL
+PTHR37563	PHYTANOYL-COA DIOXYGENASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_2G03330)
+G3DSA:3.30.559.10:FF:000067	Transferase family protein
+G3DSA:3.30.559.10:FF:000109	Transferase family protein
+cd00686	Terpene_cyclase_cis_trans_C1
+cd07129	ALDH_KGSADH
+cd08278	benzyl_alcohol_DH
+NF045815	neopentalenolactone/pentalenolactone F synthase
+G3DSA:3.60.130.10:FF:000024	Pentalenolactone F synthase
+MF_01614	NADPH dehydrogenase [namA].
+NF037941	nocobactin polyketide synthase NbtC
+cd02001	TPP_ComE_PpyrDC
+G3DSA:3.40.50.1820:FF:000469	Pyochelin biosynthetic protein PchC
+cd20614	CYPBJ-4-like
+G3DSA:3.40.630.30:FF:000373	GNAT family N-acetyltransferase
+cd06426	NTP_transferase_like_2
+cd08649	FMT_core_NRPS_like
+cd07124	ALDH_PutA-P5CDH-RocA
+MF_00733	1-pyrroline-5-carboxylate dehydrogenase [rocA].
+G3DSA:3.40.605.10:FF:000045	1-pyrroline-5-carboxylate dehydrogenase 1
+TIGR01892	acetylornithine deacetylase
+cd08021	M20_Acy1_YhaA-like
+TIGR03588	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+PF05175	Methyltransferase small domain
+G3DSA:3.40.50.880:FF:000086	Carbamoyl-phosphate synthase small chain
+cd08266	Zn_ADH_like1
+NF041624	isoafricanol synthase
+PF01488	Shikimate / quinate 5-dehydrogenase
+cd07087	ALDH_F3-13-14_CALDH-like
+PTHR43836	CATECHOL O-METHYLTRANSFERASE 1-RELATED
+MF_00164	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] [glmS].
+TIGR01135	glutamine--fructose-6-phosphate transaminase (isomerizing)
+G3DSA:3.40.50.10490:FF:000022	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+G3DSA:3.60.20.10:FF:000006	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+G3DSA:3.30.1120.100:FF:000001	Fatty acid synthase beta subunit dehydratase
+PIRSF036498	Kaurene_synth_fungi
+PTHR45036	METHYLTRANSFERASE LIKE 7B
+NF038078	myxochelin non-ribosomal peptide synthetase MxcG
+G3DSA:3.40.50.11710:FF:000003	Cyclo(L-leucyl-L-phenylalanyl) synthase
+G3DSA:3.40.50.1820:FF:000169	Yersiniabactin biosynthesis thioesterase YbtT
+PS00146	Beta-lactamase class-A active site.
+G3DSA:3.30.559.30:FF:000011	Nonribosomal siderophore peptide synthase SidC
+G3DSA:3.30.559.30:FF:000018	Nonribosomal siderophore peptide synthase SidC
+G3DSA:3.30.559.30:FF:000014	Nonribosomal siderophore peptide synthase SidC
+G3DSA:3.30.559.30:FF:000019	Nonribosomal siderophore peptide synthase SidC
+G3DSA:3.30.559.10:FF:000038	Nonribosomal siderophore peptide synthase SidC
+G3DSA:3.40.50.12780:FF:000056	Nonribosomal siderophore peptide synthase SidC
+G3DSA:1.10.1200.10:FF:000027	Nonribosomal siderophore peptide synthase SidC
+G3DSA:3.30.559.30:FF:000015	Nonribosomal siderophore peptide synthase SidC
+G3DSA:3.30.559.10:FF:000051	Nonribosomal peptide synthetase sidC
+G3DSA:3.30.559.10:FF:000055	Nonribosomal peptide synthetase sidC
+G3DSA:3.30.300.30:FF:000038	Nonribosomal siderophore peptide synthase SidC
+G3DSA:3.30.300.30:FF:000057	Nonribosomal siderophore peptide synthase SidC
+G3DSA:1.10.1200.10:FF:000018	Nonribosomal siderophore peptide synthase SidC
+PTHR40392	2-PHOSPHO-L-LACTATE GUANYLYLTRANSFERASE
+MF_02114	2-phospho-L-lactate  guanylyltransferase [cofC].
+TIGR03552	2-phospho-L-lactate guanylyltransferase
+PS00365	Nitrite and sulfite reductases iron-sulfur/siroheme-binding site.
+G3DSA:3.30.413.10:FF:000007	Nitrite reductase [NAD(P)H] large subunit
+G3DSA:3.30.470.20:FF:000139	[Butirosin acyl-carrier protein]--L-glutamate ligase
+PF07519	Tannase and feruloyl esterase
+PF23441	SDR-like rossmann domain
+G3DSA:3.10.129.110:FF:000012	PKS-NRPS hybrid synthetase psoA
+TIGR04015	colanic acid biosynthesis glycosyltransferase WcaC
+PTHR44375	BETA-KETOACYL-ACP REDUCTASE-LIKE PROTEIN-RELATED
+NF045483	epi-isozizaene synthase
+SFLDF00300	7-carboxy-7-deazaguanine synthase, Cx3CxxC type
+G3DSA:3.30.559.30:FF:000010	Nonribosomal peptide synthase Pes1
+G3DSA:1.10.1200.10:FF:000026	Nonribosomal peptide synthase Pes1
+G3DSA:3.90.550.10:FF:000052	Colanic acid biosynthesis glycosyltransferase WcaA
+TIGR04017	colanic acid biosynthesis glycosyltransferase WcaA
+G3DSA:3.40.50.720:FF:001088	NAD(P)-binding protein
+G3DSA:3.40.50.720:FF:000398	Probable 2-deoxy-D-gluconate 3-dehydrogenase
+TIGR01832	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD
+G3DSA:3.40.50.720:FF:000081	2-deoxy-D-gluconate 3-dehydrogenase
+PTHR45007	CARBOXYLASE, PUTATIVE (AFU_ORTHOLOGUE AFUA_5G07570)-RELATED
+cd05269	TMR_SDR_a
+G3DSA:3.60.20.10:FF:000037	Asparagine synthetase B
+TIGR04005	colanic acid biosynthesis glycosyltransferase WcaL
+cd00347	Flavin_utilizing_monoxygenases
+TIGR04188	ATP-grasp peptide maturase system methyltransferase
+G3DSA:3.40.47.10:FF:000008	3-hydroxy-3-methylglutaryl coenzyme A synthase
+PTHR24296	CYTOCHROME P450
+SFLDF00417	gentamicin C-6' methyltransferase (GenK-like)
+cd02137	MhqN-like
+TIGR04458	4-nitrotryptophan synthase
+cd07106	ALDH_AldA-AAD23400
+cd00841	MPP_YfcE
+G3DSA:1.10.630.10:FF:000169	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+MF_02123	F420-dependent glucose-6-phosphate dehydrogenase [fgd].
+G3DSA:3.40.47.10:FF:000119	Anthraniloyl-CoA anthraniloyltransferase
+G3DSA:3.40.47.10:FF:000113	Putative 3-oxoacyl-(Acyl-carrier-protein) synthase III
+G3DSA:1.10.1030.10:FF:000009	Carbamoyl-phosphate synthase large chain
+G3DSA:3.20.20.30:FF:000037	4-(gamma-L-glutamylamino)butanoyl-[BtrI acyl-carrier protein] monooxygenase BtrO
+SFLDF00134	L-talarate/galactarate dehydratase
+G3DSA:3.90.550.10:FF:000045	UTP--glucose-1-phosphate uridylyltransferase
+G3DSA:3.90.1150.10:FF:000030	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+G3DSA:3.40.640.10:FF:000040	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+cd07119	ALDH_BADH-GbsA
+PTHR43860	BETAINE ALDEHYDE DEHYDROGENASE
+cd20623	CYP_unk
+TIGR04439	putative histamine N-monooxygenase
+TIGR04000	bacillithiol biosynthesis deacetylase BshB2
+G3DSA:3.40.50.970:FF:000029	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+G3DSA:3.90.226.10:FF:000003	1,4-dihydroxy-2-naphthoyl-CoA synthase
+G3DSA:1.10.12.10:FF:000003	1,4-dihydroxy-2-naphthoyl-CoA synthase
+TIGR01929	1,4-dihydroxy-2-naphthoyl-CoA synthase
+MF_01934	1,4-dihydroxy-2-naphthoyl-CoA synthase [menB].
+PF04199	Putative cyclase
+G3DSA:2.60.120.330:FF:000005	1-aminocyclopropane-1-carboxylate oxidase homolog 1
+MF_01691	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase [dapH].
+TIGR03532	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PF08503	Tetrahydrodipicolinate succinyltransferase N-terminal
+TIGR04479	PhpK family radical SAM P-methyltransferase
+cd07474	Peptidases_S8_subtilisin_Vpr-like
+cd20483	C_PKS-NRPS
+PTHR42683	ALDEHYDE REDUCTASE
+G3DSA:3.40.50.720:FF:000022	Cinnamyl alcohol dehydrogenase
+cd07097	ALDH_KGSADH-YcbD
+cd07562	Peptidase_S41_TRI
+G3DSA:3.90.45.10:FF:000005	Peptide deformylase
+G3DSA:3.50.50.60:FF:000228	FAD-containing monooxygenase EthA
+PTHR43872	MONOOXYGENASE, PUTATIVE (AFU_ORTHOLOGUE AFUA_8G02570)-RELATED
+TIGR01328	methionine gamma-lyase
+PIRSF000168	Acyl-CoA_oxidase
+TIGR04007	colanic acid biosynthesis glycosyltransferase WcaI
+G3DSA:3.40.30.10:FF:000039	Glutathione S-transferase domain
+G3DSA:3.30.70.250:FF:000003	Polyketide beta-ketoacyl synthase Pks3
+cd07138	ALDH_CddD_SSP0762
+PS00943	UbiA prenyltransferase family signature.
+TIGR01780	succinate-semialdehyde dehydrogenase
+G3DSA:1.10.1200.10:FF:000111	Peptidyl carrier protein type II
+G3DSA:1.20.140.10:FF:000019	Acyl-CoA dehydrogenase
+PF21263	Acyl-CoA dehydrogenase, C-terminal domain
+G3DSA:2.40.110.10:FF:000017	Acyl-CoA dehydrogenase
+PTHR43106	DEHYDROGENASE-RELATED
+G3DSA:3.90.550.10:FF:000166	Probable sugar transferase
+TIGR00670	aspartate carbamoyltransferase
+G3DSA:3.40.50.1370:FF:000001	Aspartate carbamoyltransferase
+MF_00001	Aspartate carbamoyltransferase [pyrB].
+G3DSA:3.40.50.1370:FF:000011	Aspartate carbamoyltransferase
+PR00101	Aspartate carbamoyltransferase signature
+cd07121	ALDH_EutE
+cd06551	LPLAT
+PTHR11525	FARNESYL-PYROPHOSPHATE SYNTHETASE
+MF_02240	Phosphoserine phosphatase.
+G3DSA:3.40.47.10:FF:000146	Orsellinic acid synthase
+cd11079	Cyp_unk
+G3DSA:1.10.630.10:FF:000104	Cytochrome P450 family 81 subfamily D polypeptide 8
+G3DSA:1.10.630.10:FF:000175	Cytochrome P450 family 81 subfamily D polypeptide 8
+NF042423	2-alkyl-3-oxoalkanoate reductase
+NF033640	twitch domain-containing radical SAM protein
+G3DSA:3.20.20.100:FF:000070	Aldo/keto reductase
+PTHR47956	CYTOCHROME P450 71B11-RELATED
+PTHR43452	PYRUVATE DECARBOXYLASE
+G3DSA:2.20.25.570:FF:000001	LmbJ
+G3DSA:3.40.50.720:FF:000215	3-hydroxyacyl-CoA dehydrogenase type-2
+PTHR43658	SHORT-CHAIN DEHYDROGENASE/REDUCTASE
+PTHR40841	SIDEROPHORE TRIACETYLFUSARININE C ESTERASE
+TIGR00658	ornithine carbamoyltransferase
+MF_01109	Ornithine carbamoyltransferase, catabolic [argI].
+G3DSA:3.40.50.1370:FF:000008	Ornithine carbamoyltransferase
+cd20654	CYP82
+G3DSA:3.40.50.2000:FF:000075	Lipopolysaccharide heptosyltransferase I
+G3DSA:3.40.50.2000:FF:000106	Lipopolysaccharide heptosyltransferase 1
+PF08484	C-methyltransferase C-terminal domain
+PF08421	Putative zinc binding domain
+TIGR02353	Pls/PosA family non-ribosomal peptide synthetase C-terminal domain
+PTHR47381	ALPHA/BETA-HYDROLASES SUPERFAMILY PROTEIN
+cd16439	beta_Kdo_transferase_KpsC_2
+cd16440	beta_Kdo_transferase_KpsC_1
+G3DSA:3.30.559.30:FF:000031	Nonribosomal peptide synthase GliP2
+G3DSA:3.40.50.12780:FF:000062	Nonribosomal peptide synthetase gliP
+G3DSA:3.30.300.30:FF:000105	Enniatin synthase
+G3DSA:2.30.38.10:FF:000013	Enniatin synthase
+G3DSA:3.40.50.150:FF:000709	Enniatin synthase
+G3DSA:3.20.20.30:FF:000001	Alkanesulfonate monooxygenase
+G3DSA:3.40.50.2000:FF:000120	UDP-glycosyltransferase 76C1
+G3DSA:3.40.50.2000:FF:000040	UDP-glycosyltransferase 76C1
+SFLDF00439	methylation of yatakemycin (YTK)
+PF20258	Aminomethyltransferase beta-barrel domain
+cd11723	YabN_N_like
+G3DSA:3.40.1010.10:FF:000008	Similar to nucleoside triphosphate pyrophosphohydrolase, MazG
+PIRSF002845	Ttrprl_mtas_MazG
+PTHR45431	RHODANESE-LIKE DOMAIN-CONTAINING PROTEIN 15, CHLOROPLASTIC
+MF_00497_B	Glycerol-1-phosphate dehydrogenase [NAD(P)+] [egsA].
+PF13685	Iron-containing alcohol dehydrogenase
+SSF48613	Heme oxygenase-like
+G3DSA:3.50.50.60:FF:000042	Dimethylaniline monooxygenase [N-oxide-forming]
+PF08498	Sterol methyltransferase C-terminal
+PS51685	SAM-dependent methyltransferase Erg6/SMT-type domain profile.
+G3DSA:1.10.12.10:FF:000002	1,4-dihydroxy-2-naphthoyl-CoA synthase
+G3DSA:3.30.300.30:FF:000116	Nonribosomal peptide synthase inpB
+G3DSA:2.30.38.10:FF:000009	Nonribosomal peptide synthase inpB
+G3DSA:3.30.559.10:FF:000048	Nonribosomal peptide synthase inpB
+G3DSA:3.50.50.60:FF:000528	Phytoene desaturase
+G3DSA:3.30.1490.20:FF:000007	D-alanine--D-alanine ligase
+TIGR01474	4-hydroxybenzoate polyprenyltransferase
+MF_01635	4-hydroxybenzoate octaprenyltransferase [ubiA].
+PF11420	Bacteriocin subtilosin A
+TIGR03029	chain length determinant protein tyrosine kinase EpsG
+MF_00834	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase [bioA].
+G3DSA:3.40.640.10:FF:000041	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+TIGR00508	adenosylmethionine--8-amino-7-oxononanoate transaminase
+TIGR03813	putative glutamine/gamma-aminobutyrate antiporter GadC
+PTHR47991	OXOGLUTARATE/IRON-DEPENDENT DIOXYGENASE
+TIGR03217	4-hydroxy-2-oxovalerate aldolase
+MF_01656	4-hydroxy-2-oxovalerate aldolase [mhpE].
+cd07091	ALDH_F1-2_Ald2-like
+G3DSA:3.40.605.10:FF:000011	ALD5p Mitochondrial aldehyde dehydrogenase
+G3DSA:3.40.640.10:FF:000078	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+MF_00993	Aminodeoxyfutalosine synthase [mqnE].
+SFLDF00306	carbapenem intermediate methyltransferase (ThnL-like)
+G3DSA:3.10.600.10:FF:000004	Pyruvate carboxylase
+G3DSA:3.30.470.20:FF:000012	Pyruvate carboxylase
+TIGR01235	pyruvate carboxylase
+PTHR43778	PYRUVATE CARBOXYLASE
+G3DSA:3.20.20.70:FF:000033	Pyruvate carboxylase
+G3DSA:3.50.50.60:FF:000208	3-ketosteroid dehydrogenase
+cd07490	Peptidases_S8_6
+NF033600	staphylopine biosynthesis dehydrogenase
+PTHR43757	AMINOMETHYLTRANSFERASE
+PF16350	FAD dependent oxidoreductase central domain
+PF01571	Aminomethyltransferase folate-binding domain
+SSF101790	Aminomethyltransferase beta-barrel domain
+G3DSA:1.10.630.10:FF:000229	Cytochrome P450 oxidoreductase OrdA-like, putative
+PIRSF037495	OoxA/HcnB
+cd07100	ALDH_SSADH1_GabD1
+PTHR43217	SUCCINATE SEMIALDEHYDE DEHYDROGENASE [NAD(P)+] SAD
+G3DSA:3.40.605.10:FF:000012	NAD-dependent succinate-semialdehyde dehydrogenase
+G3DSA:3.40.50.720:FF:000922	Uncharacterized protein
+G3DSA:3.60.120.10:FF:000010	Salicylate synthase
+cd05657	M42_glucanase_like
+cd11083	CYP_unk
+TIGR01829	acetoacetyl-CoA reductase
+G3DSA:3.40.50.1100:FF:000013	Threonine synthase
+G3DSA:3.40.50.200:FF:000055	Tk-subtilisin
+TIGR03694	PEP-CTERM/exosortase system-associated acyltransferase
+MF_01689	Ornithine aminotransferase [rocD].
+cd02778	MopB_CT_Thiosulfate-R-like
+TIGR03564	TIGR03564 family F420-dependent LLM class oxidoreductase
+cd07114	ALDH_DhaS
+G3DSA:3.10.450.50:FF:000014	Phenazine biosynthesis protein PhzB 2
+PIRSF001390	Dipicolinate_synth_subunit_B
+TIGR02852	dipicolinate synthase subunit B
+G3DSA:2.40.460.10	Biotin dependent carboxylase carboxyltransferase
+G3DSA:3.40.50.20:FF:000005	acetyl-CoA carboxylase isoform X2
+G3DSA:2.40.50.100:FF:000005	Acetyl-CoA carboxylase 1
+PF21385	Acetyl-CoA carboxylase, BT domain
+G3DSA:3.90.226.10:FF:000010	acetyl-CoA carboxylase isoform X2
+G3DSA:2.40.460.10:FF:000001	Acetyl-CoA carboxylase 1
+G3DSA:3.30.470.20:FF:000005	Acetyl-CoA carboxylase 1
+PTHR45728	ACETYL-COA CARBOXYLASE, ISOFORM A
+G3DSA:3.90.1770.10:FF:000001	acetyl-CoA carboxylase 1
+PF08326	Acetyl-CoA carboxylase, central region
+TIGR03367	6-carboxytetrahydropterin synthase QueD
+SFLDF00310	oxygen-independent coproporphyrinogen-III oxidase 2 (HemZ-like)
+TIGR03994	coproporphyrinogen dehydrogenase HemZ
+NF042918	L-2-amino-4-chloropent-4-enoate dechlorinase/desaturase BesB
+G3DSA:2.60.120.330:FF:000047	Similar to oxidoreductase
+SFLDF00365	thuricin CD (TrnCD-like)
+G3DSA:1.10.630.10:FF:000271	Cytochrome P450 monooxygenase PikC
+cd20480	ArgR-Cyc_NRPS-like
+MF_00565	D-alanyl carrier protein [dltC].
+TIGR01688	D-alanine--poly(phosphoribitol) ligase subunit 2
+G3DSA:1.10.600.10:FF:000066	Presilphiperfolan-8-beta-ol synthase
+cd13125	MATE_like_10
+G3DSA:1.10.600.10:FF:000010	Squalene synthase HpnD
+G3DSA:3.50.50.60:FF:000037	Dihydrolipoyl dehydrogenase
+G3DSA:1.20.140.10:FF:000010	Acyl-coenzyme A oxidase
+G3DSA:2.40.110.10:FF:000005	Acyl-coenzyme A oxidase
+PF16942	Putative cyclic bacteriocin
+G3DSA:3.30.390.10:FF:000009	Hydrophobic dipeptide epimerase
+G3DSA:3.40.47.10:FF:000026	3-oxoacyl-[acyl-carrier-protein] synthase 2
+G3DSA:1.10.600.10:FF:000060	Terpenoid synthase
+G3DSA:3.30.559.30:FF:000034	Nonribosomal peptide synthetase easA
+G3DSA:1.10.1200.10:FF:000067	Nonribosomal peptide synthetase easA
+G3DSA:3.40.50.360:FF:000048	Bifunctional cytochrome P450/NADPH--P450 reductase
+SFLDF00336	quinohemoprotein amine dehydrogenase maturation protein (QhpD-like)
+TIGR03906	quinohemoprotein amine dehydrogenase maturation protein
+PTHR24095	ACETYL-COENZYME A SYNTHETASE
+NF040538	arsinothricin biosynthesis methyltransferase ArsM
+G3DSA:1.10.630.10:FF:000273	Erythromycin C-12 hydroxylase
+PTHR46056	LONG-CHAIN-ALCOHOL OXIDASE
+PTHR47495	ALDEHYDE DEHYDROGENASE
+cd05972	MACS_like
+G3DSA:3.30.300.30:FF:000005	Acyl-coenzyme A synthetase ACSM5, mitochondrial
+G3DSA:3.40.50.12780:FF:000032	Acyl--CoA ligase
+cd12809	Esterase_713_like-2
+PTHR32419	GLUTATHIONYL-HYDROQUINONE REDUCTASE
+TIGR01934	ubiquinone/menaquinone biosynthesis methyltransferase
+MF_01813	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE [ubiE].
+PS51608	UbiE family SAM-binding methyltransferase profile.
+G3DSA:3.30.70.1990:FF:000001	Amine oxidase, flavin-containing superfamily
+TIGR03017	chain length determinant protein EpsF
+G3DSA:3.50.50.60:FF:000915	L-lysine 6-monooxygenase
+NF041821	daptide-type RiPP biosynthesis aminotransferase
+G3DSA:3.90.550.10:FF:000125	Putative glycosyltransferase CsbB
+cd08270	MDR4
+PTHR30352	PYRUVATE FORMATE-LYASE-ACTIVATING ENZYME
+PF22127	NTD biosynthesis operon protein NtdA, N-terminal domain
+PF00487	Fatty acid desaturase
+G3DSA:1.10.510.40:FF:000006	Siderophore biosynthesis protein SbnF
+NF033586	staphyloferrin B biosynthesis protein SbnF
+TIGR01415	TrpB-like pyridoxal phosphate-dependent enzyme
+PIRSF500824	TrpB_prok
+PF03559	NDP-hexose 2,3-dehydratase
+NF038156	class V lanthionine synthetase subunit LxmK
+G3DSA:1.10.1200.10:FF:000113	Peptide synthetase NRPS type II-PCP
+PS01183	ubiE/COQ5 methyltransferase family signature 1.
+G3DSA:3.40.50.150:FF:000086	Demethylmenaquinone methyltransferase
+TIGR02752	demethylmenaquinone methyltransferase
+TIGR04009	colanic acid biosynthesis glycosyltransferase WcaE
+G3DSA:1.10.1040.50:FF:000007	3-hydroxyacyl-CoA dehydrogenase
+cd13956	PT_UbiA
+cd05969	MACS_like_4
+cd05350	SDR_c6
+G3DSA:3.90.45.10:FF:000002	Peptide deformylase
+TIGR02622	CDP-glucose 4,6-dehydratase
+cd07481	Peptidases_S8_BacillopeptidaseF-like
+G3DSA:3.40.50.200:FF:000043	Peptidase S8
+PS00836	Alanine dehydrogenase & pyridine nucleotide transhydrogenase signature 1.
+PS00837	Alanine dehydrogenase & pyridine nucleotide transhydrogenase signature 2.
+PTHR42795	ALANINE DEHYDROGENASE
+PIRSF000183	Alanine_dh
+G3DSA:3.40.50.720:FF:000049	Alanine dehydrogenase
+TIGR00518	alanine dehydrogenase
+PF05222	Alanine dehydrogenase/PNT, N-terminal domain
+NF045653	L-tyrosine isonitrile synthase
+G3DSA:3.30.559.30:FF:000025	Vibriobactin synthetase, amide synthase subunit VibH
+G3DSA:2.60.120.620:FF:000040	Phytanoyl-CoA dioxygenase, putative
+TIGR03620	TIGR03620 family F420-dependent LLM class oxidoreductase
+cd06161	S2P-M50_SpoIVFB
+PTHR24293	CYTOCHROME P450 FAMILY 46 SUBFAMILY A
+G3DSA:3.40.1160.10:FF:000015	Acetylglutamate kinase
+TIGR03589	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+PTHR42696	ASPARTATE AMMONIA-LYASE
+TIGR00839	aspartate ammonia-lyase
+cd07136	ALDH_YwdH-P39616
+G3DSA:3.40.462.20:FF:000004	FAD binding domain protein
+G3DSA:1.10.600.10:FF:000031	Syn-copalyl diphosphate synthase
+G3DSA:1.10.600.10:FF:000032	Syn-copalyl diphosphate synthase
+NF045816	pentalenolactone synthase
+G3DSA:2.40.30.30:FF:000004	Riboflavin biosynthesis protein
+PF08933	Monodechloroaminopyrrolnitrin synthase PrnB
+cd08244	MDR_enoyl_red
+NF033471	acinetodin/klebsidin/J25 family lasso peptide
+SFLDF00515	sporulation killing factor protein (SkfB-like)
+TIGR04403	sporulation killing factor system radical SAM maturase
+G3DSA:3.30.300.30:FF:000012	D-alanine--D-alanyl carrier protein ligase
+MF_00593	D-alanine--D-alanyl carrier protein ligase [dltA].
+TIGR01734	D-alanine--poly(phosphoribitol) ligase subunit DltA
+G3DSA:3.40.50.11710:FF:000001	Cyclo(L-leucyl-L-leucyl) synthase
+PF04655	Aminoglycoside/hydroxyurea antibiotic resistance kinase
+G3DSA:3.30.300.30:FF:000085	AMP-binding_enzyme/AMP-binding_enzyme_C-terminal_ domain/Ankyrin_repeats_(3_copies)/Ankyrin_repeat/Ankyrin_re peats_(Many_copies)_-_putative
+G3DSA:3.40.50.1100:FF:000005	Threonine dehydratase catabolic
+G3DSA:3.40.50.1100:FF:000007	L-threonine dehydratase catabolic TdcB
+G3DSA:3.10.450.50:FF:000047	Aklanonic acid methyl ester cyclase AcmA
+G3DSA:3.20.20.100:FF:000008	Aldo/keto reductase family oxidoreductase
+G3DSA:3.40.47.10:FF:000007	acetyl-CoA acetyltransferase, mitochondrial
+TIGR01822	glycine C-acetyltransferase
+MF_00985	2-amino-3-ketobutyrate coenzyme A ligase [kbl].
+NF041227	bagremycin/ferroverdin biosynthesis FAD-dependent oxygenase BagG/FevA2
+PTHR11879	ASPARTATE AMINOTRANSFERASE
+cd07139	ALDH_AldA-Rv0768
+PF00862	Sucrose synthase
+TIGR02470	sucrose synthase
+TIGR01212	TIGR01212 family radical SAM protein
+SFLDG01091	uncharacterized CHP01210-like
+PF16199	Radical_SAM C-terminal domain
+NF045818	neopentalenolactone/pentalenolactone D synthase
+G3DSA:3.50.50.60:FF:000314	Baeyer-Villiger monooxygenase
+G3DSA:3.40.630.30:FF:000007	Spermidine N(1)-acetyltransferase
+G3DSA:3.40.50.20:FF:000022	Formate-dependent phosphoribosylglycinamide formyltransferase
+PTHR42783	GLUTAMATE SYNTHASE [NADPH] SMALL CHAIN
+cd08273	MDR8
+PTHR33336	QUINOL MONOOXYGENASE YGIN-RELATED
+G3DSA:3.90.1150.10:FF:000086	Putative acetylornithine aminotransferase
+cd08289	MDR_yhfp_like
+MF_01692	N-acetyldiaminopimelate deacetylase.
+cd05670	M20_Acy1_YkuR-like
+G3DSA:1.10.1200.10:FF:000001	Acyl carrier protein
+G3DSA:3.40.50.1380:FF:000011	Carbamoyl-phosphate synthase large chain
+PTHR42995	ACETYL-COENZYME A CARBOXYLASE CARBOXYL TRANSFERASE SUBUNIT BETA, CHLOROPLASTIC
+G3DSA:1.10.1200.10:FF:000046	Nonribosomal peptide synthetase easA
+MF_00470	o-succinylbenzoate synthase [menC].
+TIGR01927	o-succinylbenzoate synthase
+G3DSA:3.20.20.120:FF:000006	o-succinylbenzoate synthase
+PF21508	MenC, N-terminal domain
+PTHR42938	FORMATE DEHYDROGENASE 1
+G3DSA:3.30.70.3220:FF:000001	Multifunctional fusion protein
+cd07079	ALDH_F18-19_ProA-GPR
+G3DSA:3.40.50.1370:FF:000016	Ornithine carbamoyltransferase
+G3DSA:3.40.50.720:FF:001423	Fatty acid synthase subunit alpha
+G3DSA:3.40.50.12780:FF:000031	Enterobactin synthase component E
+G3DSA:3.30.300.30:FF:000021	Enterobactin synthase component E
+TIGR02627	rhamnulokinase
+G3DSA:3.30.420.40:FF:000064	Rhamnulokinase
+MF_01535	Rhamnulokinase [rhaB].
+cd02857	E_set_CDase_PDE_N
+PF02903	Alpha amylase, N-terminal ig-like domain
+G3DSA:2.30.110.10:FF:000035	Flavin reductase ActVB
+PTHR42841	AMINE OXIDASE
+cd01840	SGNH_hydrolase_yrhL_like
+G3DSA:3.40.50.1110:FF:000006	O-acetyltransferase OatA
+G3DSA:3.90.180.10:FF:000002	Alcohol dehydrogenase AdhP
+PS00703	Orn/Lys/Arg decarboxylases family 1 pyridoxal-P attachment site.
+SFLDF00429	UDP-N-acetyl-tunicamine-uracil synthase (TunB-like)
+G3DSA:1.20.140.10:FF:000067	Oxidoreductase, mmfh
+cd08279	Zn_ADH_class_III
+TIGR03451	S-(hydroxymethyl)mycothiol dehydrogenase
+SFLDG00033	mannonate dehydratase
+G3DSA:3.60.130.10:FF:000034	Alpha-ketoglutarate-dependent xanthine dioxygenase xanA
+G3DSA:3.90.226.10:FF:000165	Fatty acid oxidation complex alpha-subunit
+G3DSA:2.40.37.10:FF:000016	Carboxynorspermidine/carboxyspermidine decarboxylase
+G3DSA:3.20.20.10:FF:000012	Carboxynorspermidine/carboxyspermidine decarboxylase
+TIGR01047	carboxynorspermidine decarboxylase
+G3DSA:3.40.50.720:FF:000400	UDP-glucose 6-dehydrogenase
+G3DSA:3.30.300.30:FF:000016	Fatty-acid-CoA ligase FadD26
+G3DSA:1.10.630.10:FF:000185	Fatty-acid peroxygenase
+PTHR24302	CYTOCHROME P450 FAMILY 3
+G3DSA:3.40.50.720:FF:000040	UDP-glucose 4-epimerase
+G3DSA:3.90.226.10:FF:000013	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+G3DSA:3.30.2330.10:FF:000001	Arginine biosynthesis bifunctional protein ArgJ, mitochondrial
+G3DSA:3.30.2330.10	arginine biosynthesis bifunctional protein suprefamily
+G3DSA:3.90.1150.10:FF:000033	Cystathionine gamma-synthase
+G3DSA:3.40.50.720:FF:000456	3-ketodihydrosphingosine reductase tsc10
+PTHR43039	ESTERASE-RELATED
+cd05370	SDR_c2
+TIGR02425	4-carboxymuconolactone decarboxylase
