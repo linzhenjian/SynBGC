@@ -1,6 +1,5 @@
 import sys
 import os
-import re
 
 def read_gene_file(filename):
     """Reads a gene list file and returns a list of gene names."""
@@ -35,12 +34,14 @@ def find_split_positions(genes1, insert_blocks):
     """
     positions = []
     for block in insert_blocks:
+        # Try to find a gene in the block that also exists in genes1
         for gene in block:
             if gene in genes1:
                 idx = genes1.index(gene)
                 positions.append(idx)
                 break
         else:
+            # If none match, find the next gene in genes1 that comes after the last gene in the block
             for gene in genes1:
                 if extract_gene_number(gene) > extract_gene_number(block[-1]):
                     idx = genes1.index(gene)
@@ -50,27 +51,17 @@ def find_split_positions(genes1, insert_blocks):
 
 def extract_gene_number(gene):
     """
-    Extracts the numeric part from a gene ID like ..._g271.
+    Helper function to extract the numeric part from a gene ID like ..._g271.
+    Returns the gene number as an integer.
     """
+    import re
     match = re.search(r'_g(\d+)$', gene)
     return int(match.group(1)) if match else float('inf')
 
-def find_large_gaps(genes, gap_threshold=26):
-    """
-    Finds positions where adjacent gene numbers differ by more than gap_threshold.
-    """
-    gap_positions = []
-    for i in range(len(genes) - 1):
-        num1 = extract_gene_number(genes[i])
-        num2 = extract_gene_number(genes[i + 1])
-        if abs(num2 - num1) > gap_threshold:
-            gap_positions.append(i + 1)  # split after genes[i]
-    return gap_positions
-
 def split_gene_file(genes, split_positions, output_dir, output_base):
     """
-    Splits gene list using given split positions.
-    Always outputs at least one file, even if no splits occur.
+    Splits the input gene list using the given positions.
+    Only writes parts with more than 3 genes.
     """
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -82,54 +73,42 @@ def split_gene_file(genes, split_positions, output_dir, output_base):
 
     for end in split_positions + [len(genes)]:
         part = genes[start:end]
-        # Always write the full file if no splits occurred
         if len(part) > 3 or (start == 0 and end == len(genes)):
+            # Write part to file
             outfile = os.path.join(output_dir, f"{output_base}_part{part_num}.txt")
             with open(outfile, 'w') as f:
                 f.write('\n'.join(part) + '\n')
             saved_files.append(outfile)
             part_num += 1
-        start = end
+        start = end  # Move to next segment
     return saved_files
 
 def main():
-    """Main function."""
+    """Main entry point: parses input arguments and runs processing."""
     if len(sys.argv) != 4:
         print("Usage: python split_gene_lists.py file1.txt file2.txt ./output/")
         return
 
     file1 = sys.argv[1]
     file2 = sys.argv[2]
-    outdir = sys.argv[3].rstrip('/')
-    outbase = os.path.splitext(os.path.basename(file1))[0]
+    outdir = sys.argv[3].rstrip('/')  # Remove trailing slash
+    outbase = os.path.splitext(os.path.basename(file1))[0]  # Output base name from file1
 
     genes1 = read_gene_file(file1)
     genes2 = read_gene_file(file2)
 
-    if len(genes1) <= 10:
-        print("File1 has 10 or fewer lines. No segmentation will be done.")
-        if not os.path.exists(outdir):
-            os.makedirs(outdir)
-        outfile = os.path.join(outdir, f"{outbase}_part1.txt")
-        with open(outfile, 'w') as f:
-            f.write('\n'.join(genes1) + '\n')
-        print("Saved part: ", os.path.basename(outfile))
-        return
-
+    # Step 1: Find inserted gene blocks
     insert_blocks = find_large_insert_blocks(genes1, genes2)
     print(f"Found {len(insert_blocks)} insert blocks >3 genes")
 
-    block_splits = find_split_positions(genes1, insert_blocks)
-    print(f"Split positions from insert blocks: {block_splits}")
+    # Step 2: Find where to split genes1
+    split_positions = find_split_positions(genes1, insert_blocks)
+    print(f"Splitting file1 at: {split_positions}")
 
-    gap_splits = find_large_gaps(genes1, gap_threshold=26)
-    print(f"Split positions from gene number gaps: {gap_splits}")
-
-    split_positions = sorted(set(block_splits + gap_splits))
-    print(f"Final split positions: {split_positions}")
-
+    # Step 3: Split and save segments of genes1
     saved_files = split_gene_file(genes1, split_positions, outdir, outbase)
 
+    # Final output summary
     if saved_files:
         print("Saved parts:")
         for f in saved_files:
@@ -139,3 +118,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

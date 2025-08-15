@@ -34,14 +34,12 @@ def find_split_positions(genes1, insert_blocks):
     """
     positions = []
     for block in insert_blocks:
-        # Try to find a gene in the block that also exists in genes1
         for gene in block:
             if gene in genes1:
                 idx = genes1.index(gene)
                 positions.append(idx)
                 break
         else:
-            # If none match, find the next gene in genes1 that comes after the last gene in the block
             for gene in genes1:
                 if extract_gene_number(gene) > extract_gene_number(block[-1]):
                     idx = genes1.index(gene)
@@ -74,13 +72,12 @@ def split_gene_file(genes, split_positions, output_dir, output_base):
     for end in split_positions + [len(genes)]:
         part = genes[start:end]
         if len(part) > 3 or (start == 0 and end == len(genes)):
-            # Write part to file
             outfile = os.path.join(output_dir, f"{output_base}_part{part_num}.txt")
             with open(outfile, 'w') as f:
                 f.write('\n'.join(part) + '\n')
             saved_files.append(outfile)
             part_num += 1
-        start = end  # Move to next segment
+        start = end
     return saved_files
 
 def main():
@@ -91,24 +88,30 @@ def main():
 
     file1 = sys.argv[1]
     file2 = sys.argv[2]
-    outdir = sys.argv[3].rstrip('/')  # Remove trailing slash
-    outbase = os.path.splitext(os.path.basename(file1))[0]  # Output base name from file1
+    outdir = sys.argv[3].rstrip('/')
+    outbase = os.path.splitext(os.path.basename(file1))[0]
 
     genes1 = read_gene_file(file1)
     genes2 = read_gene_file(file2)
 
-    # Step 1: Find inserted gene blocks
+    if len(genes1) <= 10:
+        print("File1 has 10 or fewer lines. No segmentation will be done.")
+        if not os.path.exists(outdir):
+            os.makedirs(outdir)
+        outfile = os.path.join(outdir, f"{outbase}_part1.txt")
+        with open(outfile, 'w') as f:
+            f.write('\n'.join(genes1) + '\n')
+        print("Saved part: ", os.path.basename(outfile))
+        return
+
     insert_blocks = find_large_insert_blocks(genes1, genes2)
     print(f"Found {len(insert_blocks)} insert blocks >3 genes")
 
-    # Step 2: Find where to split genes1
     split_positions = find_split_positions(genes1, insert_blocks)
     print(f"Splitting file1 at: {split_positions}")
 
-    # Step 3: Split and save segments of genes1
     saved_files = split_gene_file(genes1, split_positions, outdir, outbase)
 
-    # Final output summary
     if saved_files:
         print("Saved parts:")
         for f in saved_files:

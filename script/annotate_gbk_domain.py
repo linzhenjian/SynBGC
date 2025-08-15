@@ -19,9 +19,17 @@ def annotate_genbank(input_file, domain_data, output_file):
     records = []
     for record in SeqIO.parse(input_file, "genbank"):
         for feature in record.features:
-            if feature.type == "CDS" and "protein_id" in feature.qualifiers:
-                pid = feature.qualifiers["protein_id"][0]
-                if pid in domain_data:
+            if feature.type == "CDS":
+                # Try multiple qualifiers to match the domain file
+                pid = None
+                if "protein_id" in feature.qualifiers:
+                    pid = feature.qualifiers["protein_id"][0]
+                elif "gene" in feature.qualifiers:
+                    pid = feature.qualifiers["gene"][0]
+                elif "locus_tag" in feature.qualifiers:
+                    pid = feature.qualifiers["locus_tag"][0]
+
+                if pid and pid in domain_data:
                     for note in domain_data[pid]:
                         feature.qualifiers.setdefault("note", []).append(f"domain: {note}")
         records.append(record)
