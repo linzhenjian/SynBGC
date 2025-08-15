@@ -38,7 +38,7 @@ fi
 #set global viariable for funtion
 
 BIN_PATH="$(cd "$(dirname "$0")" && pwd)"
-
+#BIN_PATH="/scratch/general/vast/zlin/sponge/REF_genome/syntenic_BGC/"
 export BIN_PATH
 echo "BIN_PATH" $BIN_PATH
 echo "input_directory1" $input_directory
@@ -47,23 +47,23 @@ echo "input_directory2" $input_directory
 export input_directory
 
 # --- Check Dependencies ---
-for cmd in getconf parallel seqkit MCScanX; do
+for cmd in awk seqkit sed mkdir; do
     if ! command -v "$cmd" >/dev/null 2>&1; then
         echo "ERROR: '$cmd' is required but not found. Aborting." >&2
-        #exit 1
+        exit 1
     fi
 done
 
 # --- Prepare Domain File ---
 cat "$input_directory"/orign_prot/*_*.tsv > "$input_directory/all.tsv"
------using--non-BGC-domain--------------
+#-----using--non-BGC-domain--------------
 #awk '{print $1}' "$BIN_PATH/non-BGC-domain" | sed '/^$/d' > "$input_directory/domain_temp"
 #awk -F '\t' 'NR==FNR{a[$0]; next} !($5 in a)' OFS='\t' "$input_directory/domain_temp" "$input_directory/all.tsv" > "$input_directory/selected.tsv"
-
--------using mibig_BGC_domain------------
+#-------using mibig_BGC_domain------------
 
 awk '{print $1}' "$BIN_PATH/mibig_BGC_domain" | sed '/^$/d' > "$input_directory/domain_temp"
 awk  -F '\t' 'NR==FNR{a[$0]}NR>FNR{if ($5 in a) print $0}' OFS='\t' "$input_directory/domain_temp" "$input_directory/all.tsv" > "$input_directory/selected.tsv"
+
 awk '{print $1}' "$input_directory/selected.tsv" | awk '!seen[$1]++' > "$input_directory/selected_prot.id"
 
 
@@ -176,9 +176,9 @@ process_file() {
 
     # Run the Python script
     
-  # python  "$BIN_PATH/script/split_gene_list.py" "$file" "$file.order" "$input_dirname"
-   #using natrual gap >=7 as a split position
-   python  "$BIN_PATH/script/split_gene_list_add_natural_gap.py" "$file" "$file.order" "$input_dirname"
+    python  "$BIN_PATH/script/split_gene_list.py" "$file" "$file.order" "$input_dirname"
+    #using natrual gap >=26 as a split position
+    #python  "$BIN_PATH/script/split_gene_list_add_natural_gap.py" "$file" "$file.order" "$input_dirname"
 
 }
 

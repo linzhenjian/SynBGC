@@ -47,12 +47,6 @@ if [ -z "$species_taxo" ]; then
     exit 1
 fi
 
-for cmd in getconf parallel seqkit bigscape.py MCScanX; do
-    if ! command -v "$cmd" >/dev/null 2>&1; then
-        echo "ERROR: '$cmd' is required but not found. Aborting." >&2
-        #exit 1
-    fi
-done
 
 #------------------run bigscale------------------------
 rm -r $input_directory/output_mibig

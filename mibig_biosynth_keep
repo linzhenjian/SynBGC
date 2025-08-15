@@ -1,8 +1,3 @@
-G3DSA:3.50.50.60	FAD/NAD(P)-binding domain superfamily
-PTHR34180	PEPTIDASE C45
-G3DSA:3.60.60.10	Penicillin V Acylase; Chain A
-PF03417	Acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase
-NF040521	C45 family autoproteolytic acyltransferase/hydolase
 SSF53383	PLP-dependent transferases
 G3DSA:3.90.1150.10	Aspartate Aminotransferase, domain 1
 PTHR11487	THIOESTERASE
@@ -2172,11 +2167,3 @@ G3DSA:3.40.50.720:FF:000456	3-ketodihydrosphingosine reductase tsc10
 PTHR43039	ESTERASE-RELATED
 cd05370	SDR_c2
 TIGR02425	4-carboxymuconolactone decarboxylase
-SSF48317	Acid_phosphatase/Vanadium-dependent_haloperoxidase
-G3DSA:1.20.144.10	Phosphatidic_acid_phosphatase_type_2/haloperoxidase
-cd03398	PAP2_haloperoxidase
-PS51405	Heme_haloperoxidase_family_profile.
-PF13532	2OG-Fe(II)_oxygenase_superfamily
-PF04055	Radical_SAM_superfamily
-PF01328	Peroxidase,_family_2
-PF00550	Phosphopantetheine_attachment_site

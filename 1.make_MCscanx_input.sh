@@ -64,7 +64,7 @@ mkdir -p "$output"
 for cmd in awk seqkit sed mkdir; do
   command -v "$cmd" >/dev/null 2>&1 || {
     echo "$cmd is required but not found. Aborting."
-    #exit 1
+    exit 1
   }
 done
 #cores=$(getconf _NPROCESSORS_ONLN)
