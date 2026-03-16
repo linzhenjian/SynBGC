@@ -2,9 +2,6 @@
 #SBATCH --account=schmidt-np
 #SBATCH --partition=schmidt-np
 
-export TERM=xterm-256color
-export PATH="/uufs/chpc.utah.edu/common/home/schmidt-group3/software/miniconda/bin:$PATH"
-
 # Header
 echo -e "class\torder\tfamily\tgenus\tspecies" > strain_taxo
 
@@ -19,7 +16,15 @@ while read A B; do
     class=$(echo "$xml" | xtract -pattern LineageEx -block Taxon -if Rank -equals class -element ScientificName)
     order=$(echo "$xml" | xtract -pattern LineageEx -block Taxon -if Rank -equals order -element ScientificName)
     family=$(echo "$xml" | xtract -pattern LineageEx -block Taxon -if Rank -equals family -element ScientificName)
-
+    if [ -z "$class" ]; then
+        class="unknown"
+    fi
+    if [ -z "$order" ]; then
+        order="unknown"
+    fi
+    if [ -z "$family" ]; then
+        family="unknown"
+    fi
     # Output line
     printf "%s\t%s\t%s\t%s\t%s\n" "$class" "$order" "$family" "$genus" "$B" >> strain_taxo
 done < "$1"

@@ -35,16 +35,8 @@ def main():
     # Add adjacent genes
     new_genes = []
 
-    # Add preceding gene if available
-    if start_idx > 0:
-        new_genes.append(file2_genes[start_idx - 1])
-
     # Add genes from the section (restoring missing ones)
     new_genes.extend(subset_genes)
-
-    # Add up to 1 following gene
-    if end_idx < len(file2_genes) - 1:
-        new_genes.append(file2_genes[end_idx + 1])
 
     # Ensure output directory exists (if directory is specified)
     output_dir = os.path.dirname(new_file_path)
