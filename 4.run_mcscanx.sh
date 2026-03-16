@@ -1,12 +1,10 @@
 #!/bin/bash
 
-#SBATCH --account=schmidt-np
-#SBATCH --partition=schmidt-np
 export PATH="/uufs/chpc.utah.edu/common/home/schmidt-group3/software/MCScanX":$PATH
 # --- HELP MESSAGE ---
 if [[ -z "$1" || "$1" == "-h" || "$1" == "--help" ]]; then
     cat <<EOF
-synteny_BGC, Schmidt Lab, University of Utah
+SynBGC, Schmidt Lab, University of Utah
 Run MCScanX on paired species comparisons.
 
 Usage: $0 -i <input_directory> 
@@ -16,13 +14,17 @@ EOF
 fi
 
 # --- Parse Arguments ---
-while getopts "i:" opt; do
+while getopts "i:s:m:x:" opt; do
   case $opt in
     i) input_directory="$OPTARG" ;;
+    s) total_Bio_gaps="$OPTARG" ;;
+    m) min_median_Ge_gap="$OPTARG" ;;
+    x) max_median_Ge_gap="$OPTARG" ;;
     \?) echo "Invalid option: -$OPTARG" >&2; exit 1 ;;
     :) echo "Option -$OPTARG requires an argument." >&2; exit 1 ;;
   esac
 done
+
 
 # --- Validate Input Directory ---
 if [ -z "$input_directory" ]; then
@@ -38,7 +40,7 @@ fi
 #set global viariable for funtion
 
 BIN_PATH="$(cd "$(dirname "$0")" && pwd)"
-#BIN_PATH="/scratch/general/vast/zlin/sponge/REF_genome/syntenic_BGC/"
+
 export BIN_PATH
 echo "BIN_PATH" $BIN_PATH
 echo "input_directory1" $input_directory
@@ -46,19 +48,9 @@ input_directory="$(cd "$input_directory" && pwd)"
 echo "input_directory2" $input_directory
 export input_directory
 
-# --- Check Dependencies ---
-for cmd in awk seqkit sed mkdir; do
-    if ! command -v "$cmd" >/dev/null 2>&1; then
-        echo "ERROR: '$cmd' is required but not found. Aborting." >&2
-        exit 1
-    fi
-done
-
 # --- Prepare Domain File ---
 cat "$input_directory"/orign_prot/*_*.tsv > "$input_directory/all.tsv"
-#-----using--non-BGC-domain--------------
-#awk '{print $1}' "$BIN_PATH/non-BGC-domain" | sed '/^$/d' > "$input_directory/domain_temp"
-#awk -F '\t' 'NR==FNR{a[$0]; next} !($5 in a)' OFS='\t' "$input_directory/domain_temp" "$input_directory/all.tsv" > "$input_directory/selected.tsv"
+
 #-------using mibig_BGC_domain------------
 
 awk '{print $1}' "$BIN_PATH/mibig_BGC_domain" | sed '/^$/d' > "$input_directory/domain_temp"
@@ -89,16 +81,19 @@ while read -r name1 name2; do
 
     temp1="$input_directory/${name1}.${name2}.temp1"
     temp2="$input_directory/${name1}.${name2}.temp2"
-
-    cat "$gff1" "$gff2" > "$temp1"
-    awk -F '\t' 'NR==FNR{a[$0]}NR>FNR{if ($2 in a) print $0}' "$input_directory/selected_prot.id" "$temp1" > "$input_directory/${name1}_to_${name2}.gff"
-
     awk -F '\t' 'NR==FNR{a[$0]}NR>FNR{if ($1 in a) print $0}' "$input_directory/selected_prot.id" "$blastp" > "$temp2"
     awk -F '\t' 'NR==FNR{a[$0]}NR>FNR{if ($2 in a) print $0}' "$input_directory/selected_prot.id" "$temp2" > "$input_directory/${name1}_to_${name2}.blast"
+    
+    cat "$gff1" "$gff2" > "$temp1"
+    awk '{print $1}' "$input_directory/${name1}_to_${name2}.blast" > $input_directory/temp_id
+    awk '{print $2}' "$input_directory/${name1}_to_${name2}.blast" >> $input_directory/temp_id
+
+    awk -F '\t' 'NR==FNR{a[$0]}NR>FNR{if ($2 in a) print $0}' "$input_directory/temp_id" "$temp1" > "$input_directory/${name1}_to_${name2}.gff"
+
 
     rm -f "$temp1" "$temp2"
 
-    MCScanX "$input_directory/${name1}_to_${name2}" -e 1 -a -s 4 -m 10
+    MCScanX "$input_directory/${name1}_to_${name2}" -e 1 -a -s 3 -m 10
 
 done < "$input_directory/pairs"
 
@@ -108,7 +103,7 @@ echo "Combining MCScanX output..."
 cat "$input_directory"/*.collinearity > "$input_directory/combined"
 rm "$input_directory"/*.collinearity "$input_directory"/*.blast "$input_directory"/*.gff
 
-rm -r "$input_directory/collinear"
+rm -rf "$input_directory/collinear"
 mkdir -p "$input_directory/collinear"
 
 
@@ -126,7 +121,6 @@ line_rm=$(cat <<EOF
 ##########################################
 EOF
 )
-
 echo "$line_rm" | awk -F ':' 'NR==FNR{a[$0]; next} !($1 in a)' OFS='\t' - "$input_directory/combined" \
     | awk 'BEGIN{n=1} /^## Alignment /{sub(/## Alignment [0-9]+:/,"## Alignment " n ":"); n++} {print}' \
     > "$input_directory/combined.collinear"
@@ -145,7 +139,7 @@ awk -v outdir="$input_directory/collinear" -F '\t' '
 
 echo "All done."
 
-#-----------split the syntenic block by gaps >2-----------------
+#-----------split the syntenic block by gaps -----------------
 
 module load parallel  # Load GNU parallel if needed
 
@@ -174,16 +168,31 @@ process_file() {
         | awk '{print $2}' \
         | awk '!seen[$0]++' > "$file.order"
 
-    # Run the Python script
-    
-    python  "$BIN_PATH/script/split_gene_list.py" "$file" "$file.order" "$input_dirname"
-    #using natrual gap >=26 as a split position
-    #python  "$BIN_PATH/script/split_gene_list_add_natural_gap.py" "$file" "$file.order" "$input_dirname"
+
+    cmd=( python "$BIN_PATH/script/split_gene_list_add_natural_gap.py" \
+      "$file" "$file.order" "$input_dirname" )
+
+    # Append options only if they were provided
+    [ -n "$total_Bio_gaps" ] && cmd+=( --total_size "$total_Bio_gaps" )
+    [ -n "$min_median_Ge_gap" ] && cmd+=( --min_median_gap "$min_median_Ge_gap" )
+    [ -n "$max_median_Ge_gap" ] && cmd+=( --max_median_gap "$max_median_Ge_gap" )
+
+    # Run the command
+    echo "DEBUG in process_file:"
+    echo "  total_Bio_gaps='$total_Bio_gaps'"
+    echo "  min_median_Ge_gap='$min_median_Ge_gap'"
+    echo "  max_median_Ge_gap='$max_median_Ge_gap'" >&2
+
+    printf 'DEBUG cmd: ' >&2
+    printf '%q ' "${cmd[@]}" >&2
+    echo >&2
+    "${cmd[@]}"
+
 
 }
 
 export -f process_file
-
+export total_Bio_gaps min_median_Ge_gap max_median_Ge_gap
 # Get number of available CPU cores
 cores=$(getconf _NPROCESSORS_ONLN)
 echo "Using $cores cores"
@@ -192,28 +201,11 @@ echo "Using $cores cores"
 find "$input_directory/collinear" -maxdepth 1 -type f -name '*.txt' -print0 | parallel -0 -j "$cores" process_file
 
 
-echo "# annotate the genome gbk files"
-anno_gbk () {
-    gbk="$1"
-    name=$(basename "$gbk" .gbk)  # correct usage of basename with extension stripping
-    awk -F '\t' '{print $1, $5, $6}' OFS='\t' "$input_directory/orign_prot/$name.tsv" \
-        | sed 's/_/\t/3' \
-        | sed 's/^[^\t]*\t//' \
-        | awk '!seen[$0]++' > "$input_directory/$name.temp"
-    python "$BIN_PATH/script/annotate_gbk_domain.py" -i "$gbk" -d "$input_directory/$name.temp" -o "$input_directory/${name}_anno.GBK"
-    rm  "$input_directory/$name.temp" 
-}
-
-export -f anno_gbk
-
-# Make sure input_directory, BINPATH, and cores are defined before this
-find "$input_directory/" -maxdepth 1 -type f -name '*.gbk' -print0 | parallel -0 -j "$cores" anno_gbk
-
 
 #-----------add the genes around the syntenic genes-----------------
-
 rm -r "$input_directory/collinear/processed"
 mkdir -p "$input_directory/collinear/processed"
+
 
 add_genes() {
     file="$1"
@@ -242,27 +234,20 @@ add_genes() {
     input_dirname=$(dirname "$file")
     filename=$(basename "$file")
     output_file="$input_dirname/processed/$filename"
+    python "$BIN_PATH/script/pick_synteny_region.py" "$file" "$file.order" "$output_file"
 
-    # Run check script
-    #OUTPUT=$(python "$BIN_PATH/script/check_neighbour.py" "$file")
-
-    #if [[ "$OUTPUT" == *"Valid file"* ]]; then
-        #echo "Processing file: $file"
-        #echo "Output file: $output_file"
-        python "$BIN_PATH/script/pick_synteny_region.py" "$file" "$file.order" "$output_file"
-    #fi
 }
 
 export -f add_genes
 
 # Run in parallel
-find "$input_directory/collinear/" -maxdepth 1 -type f -name '*_part*.txt' -print0 | \
-    parallel -0 -j "$cores" add_genes
+find "$input_directory/collinear/" -maxdepth 1 -type f -name '*.split' > $input_directory/splitlist.txt
+parallel -j "$cores" add_genes :::: $input_directory/splitlist.txt
 
 #------------remove the duplicated blocks in the processed directory---------------
 
 # Find all .txt files in the specified folder (recursively), compute md5sums
-find "$input_directory/collinear/processed" -type f -name "*.txt" -exec md5sum {} + > $input_directory/collinear/processed/md5sums
+find "$input_directory/collinear/processed" -type f -name "*.split" -exec md5sum {} + > $input_directory/collinear/processed/md5sums
 
 # Process md5sums to detect duplicate checksums
 awk '
@@ -289,7 +274,7 @@ END {
 
 grep -A1 Duplicate $input_directory/collinear/processed/duplicated.group | sed '/Duplicate/d; /--/d; s/ //g'  > $input_directory/collinear/processed/uniquetxt
 
-find  "$input_directory/collinear/processed/" -maxdepth 1  -name "*.txt"  > $input_directory/collinear/processed/all.list
+find  "$input_directory/collinear/processed/" -maxdepth 1  -name "*.split"  > $input_directory/collinear/processed/all.list
 sed -i 's/[.]\///' $input_directory/collinear/processed/all.list
 
 sed  '/^Duplicate/d; /^--/d; s/ //g' $input_directory/collinear/processed/duplicated.group >  $input_directory/collinear/processed/duplicated.list
@@ -310,7 +295,9 @@ annotate_file() {
 export -f annotate_file
 
 # Run in parallel
-find "$input_directory/collinear/processed" -maxdepth 1 -type f -name '*.txt' -print0 | parallel -0 -j $(nproc) annotate_file
+#find "$input_directory/collinear/processed" -maxdepth 1 -type f -name '*.split' -print0 | parallel -0 -j $(nproc) annotate_file
+find "$input_directory/collinear/processed" -maxdepth 1 -type f -name '*.split' > $input_directory/filelist.txt
+parallel -j "$cores" annotate_file :::: $input_directory/filelist.txt
 
 
 #-------------------------make gbk files from the processed block genes--------------------------------
@@ -319,7 +306,7 @@ rm -r  $input_directory/GBK_file
 mkdir -p $input_directory/GBK_file
 generate_gbk() {
     cluster="$1"
-    base=$(basename "$cluster" .txt) #extract the base name of a file, removing the .txt extension
+    base=$(basename "$cluster" .split) #extract the base name of a file, removing the .split extension
 
     if [ ! -f "$cluster" ]; then
         echo "Missing file: $cluster"
@@ -341,7 +328,7 @@ generate_gbk() {
 
 export -f generate_gbk 
 
-find "$input_directory/collinear/processed/" -maxdepth 1 -type f -name '*.txt' -print0 | parallel -0 -j "$cores" generate_gbk
+find "$input_directory/collinear/processed/" -maxdepth 1 -type f -name '*.split' -print0 | parallel -0 -j "$cores" generate_gbk
 
 
 
